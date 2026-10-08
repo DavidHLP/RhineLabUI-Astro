@@ -1,0 +1,23 @@
+src/layouts/Terminal.astro
+  s_97e7e78fbae3b7::t_46c81c6593a903 10
+README.md
+  s_97e7e78fbae3b7::t_46c81c6593a903 32
+content/blog/writing-a-post.md
+  s_97e7e78fbae3b7::t_46c81c6593a903 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ee87c23a43086fa0c0c1980316ca3d6290adef05",
+  "prompts": {},
+  "sessions": {
+    "s_97e7e78fbae3b7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a116e3-6853-75d3-a42d-816343a89693",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
