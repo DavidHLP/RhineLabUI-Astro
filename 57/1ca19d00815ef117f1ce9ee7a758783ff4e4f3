@@ -1,0 +1,39 @@
+scripts/webfont-sources.json
+  s_97e7e78fbae3b7::t_b54d39ae4a2eb2 1-5
+package.json
+  s_97e7e78fbae3b7::t_3ad4911fb8e994 35
+README.md
+  s_97e7e78fbae3b7::t_3ad4911fb8e994 78,82
+docs/PWA.md
+  s_97e7e78fbae3b7::t_0c5d554d8e7b0e 37
+src/env.d.ts
+  s_97e7e78fbae3b7::t_b54d39ae4a2eb2 1
+CLEANUP-REVIEW.md
+  s_97e7e78fbae3b7::t_e59eaca928a93e 1-318
+scripts/package-cloudflare.mjs
+  s_97e7e78fbae3b7::t_3ad4911fb8e994 12
+scripts/check-content.mjs
+  s_97e7e78fbae3b7::t_3ad4911fb8e994 14,33-36,38,97,102,104,106,116,118,120,123,125,127
+scripts/archive-content.mjs
+  s_97e7e78fbae3b7::t_3ad4911fb8e994 18,52,73,94
+scripts/prepare-webfonts.mjs
+  s_97e7e78fbae3b7::t_3ad4911fb8e994 13
+src/data.ts
+  s_97e7e78fbae3b7::t_3ad4911fb8e994 18-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "571ca19d00815ef117f1ce9ee7a758783ff4e4f3",
+  "prompts": {},
+  "sessions": {
+    "s_97e7e78fbae3b7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a116e3-6853-75d3-a42d-816343a89693",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
