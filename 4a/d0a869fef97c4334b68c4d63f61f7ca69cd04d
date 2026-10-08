@@ -1,0 +1,31 @@
+src/boot-tracks.ts
+  s_97e7e78fbae3b7::t_1a52cc9cbcca41 1
+src/typing-samples.ts
+  s_97e7e78fbae3b7::t_1a52cc9cbcca41 1
+public/audio/README.md
+  s_97e7e78fbae3b7::t_1a52cc9cbcca41 1,3,5,7
+src/boot-orbit-tracks.ts
+  s_97e7e78fbae3b7::t_1a52cc9cbcca41 7
+docs/CLOUDFLARE-DEPLOYMENT.md
+  s_97e7e78fbae3b7::t_1a52cc9cbcca41 1,3,5,7,9,11
+docs/PWA.md
+  s_97e7e78fbae3b7::t_1a52cc9cbcca41 1,3,5,7,9,11
+AGENTS.md
+  s_97e7e78fbae3b7::t_1a52cc9cbcca41 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4ad0a869fef97c4334b68c4d63f61f7ca69cd04d",
+  "prompts": {},
+  "sessions": {
+    "s_97e7e78fbae3b7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a116e3-6853-75d3-a42d-816343a89693",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
