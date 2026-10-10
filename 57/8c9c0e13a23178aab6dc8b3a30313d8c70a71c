@@ -1,0 +1,21 @@
+scripts/pwa-worker.js
+  s_95f1a78fe0bc09::t_2c5befb72b8ee2 59
+scripts/check-content.mjs
+  s_95f1a78fe0bc09::t_2c5befb72b8ee2 164,167-168,174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "578c9c0e13a23178aab6dc8b3a30313d8c70a71c",
+  "prompts": {},
+  "sessions": {
+    "s_95f1a78fe0bc09": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12521-4394-74f1-a519-c1f1a7ad4739",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
