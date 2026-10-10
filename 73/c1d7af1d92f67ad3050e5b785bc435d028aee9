@@ -1,0 +1,22 @@
+README.md
+  s_95f1a78fe0bc09::t_aecf46fdc21f52 58
+docs/BUSINESS-IMPLEMENTATION.md
+  s_95f1a78fe0bc09::t_e4e10a99f1a67e 12-14,16,18,28-32,34-36,38,48,71-75
+  s_95f1a78fe0bc09::t_aecf46fdc21f52 11,15,24-27,33,51-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "73c1d7af1d92f67ad3050e5b785bc435d028aee9",
+  "prompts": {},
+  "sessions": {
+    "s_95f1a78fe0bc09": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12521-4394-74f1-a519-c1f1a7ad4739",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
