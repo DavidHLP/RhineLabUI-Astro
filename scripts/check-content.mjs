@@ -161,15 +161,17 @@ test("offline reading resolves pages, search text, images and attachments from t
     } }) },
     fetch: () => { throw new Error("Offline navigation unexpectedly used the network"); },
   });
-  for (const [path, file] of [
+  for (const [path, file, mode = file.endsWith(".html") || file === "rss.xml" ? "navigate" : "cors"] of [
     ["/", "index.html"], ["/blog/x-001/", "blog/x-001/index.html"],
     ["/blog/x-001", "blog/x-001/index.html"], ["/rss.xml", "rss.xml"],
+    ["/blog/x-001/", "blog/x-001/index.html", "cors"],
+    ["/blog/x-001?view=static#section", "blog/x-001/index.html", "cors"],
     ["/blog-search.json", "blog-search.json"], ["/images/example.png", "images/example.png"],
     ["/downloads/note.pdf", "downloads/note.pdf"],
   ]) {
     let response;
     handlers.fetch({
-      request: { method: "GET", mode: file.endsWith(".html") || file === "rss.xml" ? "navigate" : "cors", url: new URL(path, scope).href },
+      request: { method: "GET", mode, url: new URL(path, scope).href },
       respondWith: promise => { response = promise; },
     });
     assert.ok(response, `Offline response missing for ${path}`);
