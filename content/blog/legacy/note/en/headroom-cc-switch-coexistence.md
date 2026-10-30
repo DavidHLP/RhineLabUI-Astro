@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1059",
   "title": "Headroom with cc-switch / Claude Code Coexistence: Single Synthesis and Security Boundaries",
-  "en": "LEGACY / note/en/headroom-cc-switch-coexistence",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

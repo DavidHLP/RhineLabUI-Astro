@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1194 / 多服务启动就绪：running、ready 与依赖/失败/重启传播
-LEGACY / note/zh-cn/multi-service-readiness
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

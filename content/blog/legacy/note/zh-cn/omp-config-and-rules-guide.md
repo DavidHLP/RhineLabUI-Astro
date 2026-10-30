@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1197",
   "title": "OMP 配置分层：模型角色、Agent 覆盖与降级链",
-  "en": "LEGACY / note/zh-cn/omp-config-and-rules-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

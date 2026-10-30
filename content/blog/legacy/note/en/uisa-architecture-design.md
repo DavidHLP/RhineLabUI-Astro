@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1099",
   "title": "Enhanced UISA: Owners, Boundaries, and Recovery for Heterogeneous-Node Sync",
-  "en": "LEGACY / note/en/uisa-architecture-design",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-03-25",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

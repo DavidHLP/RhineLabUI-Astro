@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1090 / Why Async Early Expiration Only Shortens TTL: Version CAS Makes Stale Jobs Harmless
-LEGACY / note/en/resicache-early-expiration-cas
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

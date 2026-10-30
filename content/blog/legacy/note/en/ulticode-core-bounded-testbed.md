@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1102",
   "title": "Treat a Modular Monolith as a Testbed: UltiCode Core's Allowlist, Timeouts, and Close-Once Lifecycle",
-  "en": "LEGACY / note/en/ulticode-core-bounded-testbed",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

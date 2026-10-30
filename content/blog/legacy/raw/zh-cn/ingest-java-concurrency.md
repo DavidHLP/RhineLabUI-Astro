@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1242",
   "title": "Java 并发深度聚合快照：JUC、CAS、原子类、锁与线程机制",
-  "en": "LEGACY / raw/zh-cn/ingest-java-concurrency",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

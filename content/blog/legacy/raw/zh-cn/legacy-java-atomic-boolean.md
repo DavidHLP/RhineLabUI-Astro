@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1256",
   "title": "AtomicBoolean 随笔：从 boolean 并发陷阱到 CAS 无锁状态管理",
-  "en": "LEGACY / raw/zh-cn/legacy-java-atomic-boolean",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

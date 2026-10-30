@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1165",
   "title": "UltiCode の Data Owner と fact snapshot：サービス間 submit の境界を保つ",
-  "en": "LEGACY / note/ja/ulticode-owner-and-facts",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

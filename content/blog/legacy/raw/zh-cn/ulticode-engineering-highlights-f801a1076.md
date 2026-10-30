@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1282",
   "title": "UltiCode 当前主线工程化亮点：源码与文档选段固定快照",
-  "en": "LEGACY / raw/zh-cn/ulticode-engineering-highlights-f801a1076",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

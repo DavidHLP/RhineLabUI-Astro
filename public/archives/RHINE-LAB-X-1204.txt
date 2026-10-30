@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1204 / Redisson/Jackson 对 LocalDateTime 的默认序列化行为与写读不对称边界
-LEGACY / note/zh-cn/redis-jackson-java-time
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

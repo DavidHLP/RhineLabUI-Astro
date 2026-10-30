@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1153 / ResiCache：Spring Cache 保護のためのオーケストレーション可能な責任チェーン
-LEGACY / note/ja/resicache
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

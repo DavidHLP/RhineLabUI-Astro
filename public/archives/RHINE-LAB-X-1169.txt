@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1169 / 数据库 Schema 漂移：用 history、schema 与 query 三视图定位
-LEGACY / note/zh-cn/database-schema-drift
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

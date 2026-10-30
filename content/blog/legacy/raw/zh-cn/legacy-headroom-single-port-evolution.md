@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1254",
   "title": "Headroom 单端口演进：让 Zhipu、Kimi、MiniMax 与 Codex 共用 8787",
-  "en": "LEGACY / raw/zh-cn/legacy-headroom-single-port-evolution",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

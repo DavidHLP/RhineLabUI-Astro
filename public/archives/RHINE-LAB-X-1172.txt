@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1172 / Dubbo + Nacos：先核对注册名、group/version，再做真实 smoke test
-LEGACY / note/zh-cn/dubbo-nacos-runtime
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

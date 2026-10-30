@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1214",
   "title": "Testcontainers 1.20.6：先排查 Docker API 版本，再判断 daemon 不可用",
-  "en": "LEGACY / note/zh-cn/testcontainers-docker-api",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

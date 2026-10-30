@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1105 / UltiCode Generation and attemptId: Fencing Stale Judging Results with Conditional Updates
-LEGACY / note/en/ulticode-generation-attempt-fence
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

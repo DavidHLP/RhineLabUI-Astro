@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1052",
   "title": "containerd TLS: Choosing a Trusted Chain or Temporary Verification Bypass",
-  "en": "LEGACY / note/en/containerd-tls-troubleshooting",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

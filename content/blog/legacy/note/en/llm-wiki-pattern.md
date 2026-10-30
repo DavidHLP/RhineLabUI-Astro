@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1075",
   "title": "The LLM-Wiki Pattern: Maintaining a Compounding Personal Knowledge Base",
-  "en": "LEGACY / note/en/llm-wiki-pattern",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

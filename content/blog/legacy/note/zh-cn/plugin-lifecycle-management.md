@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1201",
   "title": "百万级终端插件生命周期管理：状态、心跳与受控发布",
-  "en": "LEGACY / note/zh-cn/plugin-lifecycle-management",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-06-01",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1095 / ResiCache: An Orchestratable Responsibility Chain for Spring Cache Protection
-LEGACY / note/en/resicache
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

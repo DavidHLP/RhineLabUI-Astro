@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1261",
   "title": "MySQL 性能与问题排查实战手册",
-  "en": "LEGACY / raw/zh-cn/legacy-mysql-performance-troubleshooting",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

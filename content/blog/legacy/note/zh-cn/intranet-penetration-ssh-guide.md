@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1182",
   "title": "SSH 内网访问方案：连接方向、暴露面与故障恢复",
-  "en": "LEGACY / note/zh-cn/intranet-penetration-ssh-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

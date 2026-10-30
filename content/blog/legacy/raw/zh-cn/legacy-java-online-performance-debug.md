@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1260",
   "title": "Java 线上性能排查全指南：从 CPU 飙高到 Arthas 热替换",
-  "en": "LEGACY / raw/zh-cn/legacy-java-online-performance-debug",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

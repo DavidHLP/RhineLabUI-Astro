@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1096",
   "title": "Spark and Big Data Ecosystem: Hadoop, HBase, Spark Runtime Modes, and Clusters",
-  "en": "LEGACY / note/en/spark-bigdata-ecosystem",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

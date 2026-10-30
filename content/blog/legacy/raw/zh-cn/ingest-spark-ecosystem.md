@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1247",
   "title": "Spark 与大数据生态聚合快照：Hadoop、HBase、Spark 运行模式与集群",
-  "en": "LEGACY / raw/zh-cn/ingest-spark-ecosystem",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

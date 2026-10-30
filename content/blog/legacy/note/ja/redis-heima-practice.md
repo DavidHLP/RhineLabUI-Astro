@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1145",
   "title": "Redis 黒馬実践：分散キャッシュ、マルチレベルキャッシュとベストプラクティス",
-  "en": "LEGACY / note/ja/redis-heima-practice",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

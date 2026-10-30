@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1083",
   "title": "OMP Headroom Bridge: External Routing Controller and Native Codex/OMP Proxy Boundaries",
-  "en": "LEGACY / note/en/omp-headroom-provider-proxy",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

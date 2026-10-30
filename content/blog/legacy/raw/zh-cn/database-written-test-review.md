@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1233",
   "title": "数据库笔试复盘：从 SQL 语义到批量数据处理",
-  "en": "LEGACY / raw/zh-cn/database-written-test-review",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-09-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

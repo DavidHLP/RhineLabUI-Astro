@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1154",
   "title": "Spark とビッグデータエコシステム：Hadoop、HBase、Spark 実行モードとクラスタ",
-  "en": "LEGACY / note/ja/spark-bigdata-ecosystem",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

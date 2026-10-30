@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1009 / ADR 0005 — `ContentCard[]` is the universal listable shape
-LEGACY / documentation/docs/adr/0005-universal-listable-shape
+DOCUMENTATION
 
-科室：documentation
+科室：项目文档
 编目范围：2026-10-05
 相关人物：DavidHLPL
 访问范围：PUBLIC

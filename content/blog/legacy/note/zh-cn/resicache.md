@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1211",
   "title": "ResiCache：把缓存防护写成可验证的并发与一致性边界",
-  "en": "LEGACY / note/zh-cn/resicache",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

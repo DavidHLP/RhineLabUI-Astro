@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1097",
   "title": "Spring Boot and Spring Cloud: Auto-Configuration, Transactions, Service Discovery, Gateway, and Observability",
-  "en": "LEGACY / note/en/spring-cloud-and-boot",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

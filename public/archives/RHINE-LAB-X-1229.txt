@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1229 / John Johnson · 2026-06-19-18-00-00
-LEGACY / preface/ja/2026-06-19-18-00-00
+PREFACE
 
-科室：preface
+科室：序文
 编目范围：2026-06-19
 相关人物：John Johnson
 访问范围：PUBLIC

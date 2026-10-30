@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1265",
   "title": "百万级终端插件生命周期管理系统设计：从合并心跳到灰度熔断",
-  "en": "LEGACY / raw/zh-cn/legacy-plugin-lifecycle-management",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-06-01",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

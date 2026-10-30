@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1253",
   "title": "解决 containerd TLS 证书验证问题：从跳过验证到受信配置",
-  "en": "LEGACY / raw/zh-cn/legacy-containerd-tls-troubleshooting",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

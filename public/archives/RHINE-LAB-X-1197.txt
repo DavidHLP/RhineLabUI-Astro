@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1197 / OMP 配置分层：模型角色、Agent 覆盖与降级链
-LEGACY / note/zh-cn/omp-config-and-rules-guide
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-07-31
 相关人物：DavidHLPL
 访问范围：PUBLIC

@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1260 / Java 线上性能排查全指南：从 CPU 飙高到 Arthas 热替换
-LEGACY / raw/zh-cn/legacy-java-online-performance-debug
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-07
 相关人物：DavidHLPL
 访问范围：PUBLIC

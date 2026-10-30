@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1265 / 百万级终端插件生命周期管理系统设计：从合并心跳到灰度熔断
-LEGACY / raw/zh-cn/legacy-plugin-lifecycle-management
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-06-01
 相关人物：DavidHLPL
 访问范围：PUBLIC

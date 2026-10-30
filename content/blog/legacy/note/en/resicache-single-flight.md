@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1094",
   "title": "Why Cache Stampedes Need a Future, a Distributed Lock, and a Double-Check",
-  "en": "LEGACY / note/en/resicache-single-flight",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

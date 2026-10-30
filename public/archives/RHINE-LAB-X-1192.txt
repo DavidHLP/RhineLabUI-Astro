@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1192 / MCP 协议时代边界与 codebase-memory-mcp v0.10.2 图工作流
-LEGACY / note/zh-cn/mcp-codebase-memory-workflow
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

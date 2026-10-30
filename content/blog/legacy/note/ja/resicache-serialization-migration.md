@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1151",
   "title": "Redis serializer の交換は一行の設定変更ではない：object trust から rollback 可能な migration へ",
-  "en": "LEGACY / note/ja/resicache-serialization-migration",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

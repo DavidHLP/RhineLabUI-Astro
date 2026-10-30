@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1164",
   "title": "UltiCode Outbox と Redis Streams：判定投递を復旧可能な状態にする",
-  "en": "LEGACY / note/ja/ulticode-outbox-redis-streams",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

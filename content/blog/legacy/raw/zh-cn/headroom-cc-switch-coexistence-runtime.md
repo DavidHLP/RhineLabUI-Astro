@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1237",
   "title": "Headroom 与 cc-switch / Claude Code 共存运行时证据",
-  "en": "LEGACY / raw/zh-cn/headroom-cc-switch-coexistence-runtime",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

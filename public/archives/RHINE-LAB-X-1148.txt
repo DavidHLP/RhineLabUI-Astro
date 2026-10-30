@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1148 / 非同期の早期期限切れが TTL 短縮だけを行う理由：version CAS で古い task を無効化する
-LEGACY / note/ja/resicache-early-expiration-cas
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

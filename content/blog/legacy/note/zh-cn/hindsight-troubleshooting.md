@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1181",
   "title": "Hindsight 记忆系统运行时排障矩阵与失效模式",
-  "en": "LEGACY / note/zh-cn/hindsight-troubleshooting",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-22",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

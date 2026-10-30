@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1250 / JJWT 0.13.0 签名、验签与 audience API 契约
-LEGACY / raw/zh-cn/jjwt-013-security-api-contract
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

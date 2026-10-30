@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1178",
   "title": "Hindsight 完全本地化部署与 OMP / Codex 统一记忆集成实践（已拆分归档）",
-  "en": "LEGACY / note/zh-cn/hindsight-local-deployment-and-agent-integration",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-17",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

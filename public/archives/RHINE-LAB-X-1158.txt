@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1158 / UltiCode 非同期実行コントラクト：冪等性、フィンガープリント、上限付き receipt
-LEGACY / note/ja/ulticode-async-execution-contract
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

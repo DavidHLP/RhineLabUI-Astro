@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1216",
   "title": "UltiCode 异步执行契约：idempotency、fingerprint 与有界 receipt",
-  "en": "LEGACY / note/zh-cn/ulticode-async-execution-contract",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

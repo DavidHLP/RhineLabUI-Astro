@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1092",
   "title": "ResiCache: Observer Nested Execution Must Distinguish Lifecycle, Fragments, and Scope Tokens",
-  "en": "LEGACY / note/en/resicache-observer-nested-execution",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

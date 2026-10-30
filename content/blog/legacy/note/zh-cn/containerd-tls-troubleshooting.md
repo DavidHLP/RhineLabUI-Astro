@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1168",
   "title": "containerd TLS：证书信任链与临时跳过验证的决策",
-  "en": "LEGACY / note/zh-cn/containerd-tls-troubleshooting",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

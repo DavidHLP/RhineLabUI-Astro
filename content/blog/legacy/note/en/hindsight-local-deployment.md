@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1063",
   "title": "Hindsight Local Compute Allocation and Dockerized Deployment",
-  "en": "LEGACY / note/en/hindsight-local-deployment",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-22",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

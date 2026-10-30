@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1160 / modular monolith を実験場として扱う：UltiCode Core の allowlist、timeout、close-once lifecycle
-LEGACY / note/ja/ulticode-core-bounded-testbed
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

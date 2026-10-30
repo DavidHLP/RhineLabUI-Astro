@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1243 / MySQL 存储引擎与死锁检测聚合快照
-LEGACY / raw/zh-cn/ingest-mysql-storage
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

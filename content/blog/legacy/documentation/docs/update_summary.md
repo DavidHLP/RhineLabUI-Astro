@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1026",
   "title": "Documentation Update Summary",
-  "en": "LEGACY / documentation/docs/UPDATE_SUMMARY",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

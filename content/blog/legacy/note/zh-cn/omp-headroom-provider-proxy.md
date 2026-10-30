@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1199",
   "title": "OMP Headroom Bridge：外部路由控制器与原生 Codex/OMP 代理边界",
-  "en": "LEGACY / note/zh-cn/omp-headroom-provider-proxy",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

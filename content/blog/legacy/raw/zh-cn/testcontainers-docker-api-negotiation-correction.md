@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1280",
   "title": "Testcontainers 1.20.6 API 协商更正：源码路径与 999.999 版本矩阵",
-  "en": "LEGACY / raw/zh-cn/testcontainers-docker-api-negotiation-correction",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

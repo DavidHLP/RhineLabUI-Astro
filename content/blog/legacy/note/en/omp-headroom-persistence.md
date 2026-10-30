@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1082",
   "title": "Headroom Route Persistence Synthesis: Named Profiles, model_cache, and Recovery",
-  "en": "LEGACY / note/en/omp-headroom-persistence",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-05",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

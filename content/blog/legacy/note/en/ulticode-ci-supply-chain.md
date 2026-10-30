@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1101",
   "title": "UltiCode Verification and Supply-Chain Gates: From Static Contracts to Verifiable Releases",
-  "en": "LEGACY / note/en/ulticode-ci-supply-chain",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

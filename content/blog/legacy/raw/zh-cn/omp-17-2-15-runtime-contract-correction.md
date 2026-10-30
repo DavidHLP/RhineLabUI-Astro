@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1273",
   "title": "OMP 17.2.15 运行时契约更正：Hook 加载、事件、Compaction 与 Headroom 证据边界",
-  "en": "LEGACY / raw/zh-cn/omp-17-2-15-runtime-contract-correction",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

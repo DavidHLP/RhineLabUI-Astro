@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1239 / Docker 基础与容器化：镜像分层、数据卷、网络与 Compose 快照
-LEGACY / raw/zh-cn/ingest-docker-fundamentals
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

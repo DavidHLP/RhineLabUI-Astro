@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1196",
   "title": "MySQL 存储引擎与死锁检测",
-  "en": "LEGACY / note/zh-cn/mysql-storage-and-deadlock",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

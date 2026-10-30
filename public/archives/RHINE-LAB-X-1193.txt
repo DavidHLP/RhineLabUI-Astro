@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1193 / 微服务数据所有权：先定领域 owner，再谈拆库与迁移
-LEGACY / note/zh-cn/microservice-data-ownership
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

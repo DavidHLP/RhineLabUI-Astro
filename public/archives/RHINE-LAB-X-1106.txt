@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1106 / UltiCode Outbox and Redis Streams: Making Judge Delivery Recoverable
-LEGACY / note/en/ulticode-outbox-redis-streams
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

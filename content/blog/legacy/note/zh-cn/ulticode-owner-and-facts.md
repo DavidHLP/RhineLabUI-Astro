@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1223",
   "title": "UltiCode 数据 Owner 与事实快照：跨服务提交如何保持边界",
-  "en": "LEGACY / note/zh-cn/ulticode-owner-and-facts",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1221",
   "title": "UltiCode generation 与 attemptId：用条件更新拦截过期判题结果",
-  "en": "LEGACY / note/zh-cn/ulticode-generation-attempt-fence",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

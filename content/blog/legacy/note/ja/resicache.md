@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1153",
   "title": "ResiCache：Spring Cache 保護のためのオーケストレーション可能な責任チェーン",
-  "en": "LEGACY / note/ja/resicache",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

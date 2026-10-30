@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1177 / Headroom 单端口路由综合：入口、动态上游与验证边界
-LEGACY / note/zh-cn/headroom-single-port-evolution
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-07-31
 相关人物：DavidHLPL
 访问范围：PUBLIC

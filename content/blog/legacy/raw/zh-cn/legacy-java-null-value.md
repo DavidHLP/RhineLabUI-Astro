@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1259",
   "title": "NullValue 随笔：Spring Cache 如何优雅缓存 null",
-  "en": "LEGACY / raw/zh-cn/legacy-java-null-value",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1076",
   "title": "MCP Protocol Era Boundary and the codebase-memory-mcp v0.10.2 Graph Workflow",
-  "en": "LEGACY / note/en/mcp-codebase-memory-workflow",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

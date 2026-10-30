@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1080",
   "title": "MySQL Storage Engines and Deadlock Detection",
-  "en": "LEGACY / note/en/mysql-storage-and-deadlock",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

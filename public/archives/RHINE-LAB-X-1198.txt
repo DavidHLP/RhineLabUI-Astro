@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1198 / Headroom 路由持久化综合：Named Profile、model_cache 与恢复
-LEGACY / note/zh-cn/omp-headroom-persistence
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-05
 相关人物：DavidHLPL
 访问范围：PUBLIC

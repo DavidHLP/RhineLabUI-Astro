@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1085",
   "title": "Plugin Lifecycle Management at Million-Endpoint Scale: State, Heartbeats, and Controlled Release",
-  "en": "LEGACY / note/en/plugin-lifecycle-management",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-06-01",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

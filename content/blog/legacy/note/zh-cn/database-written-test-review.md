@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1170",
   "title": "数据库笔试复盘：从 SQL 语义到批量数据处理",
-  "en": "LEGACY / note/zh-cn/database-written-test-review",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

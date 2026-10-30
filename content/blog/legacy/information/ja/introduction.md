@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1038",
   "title": "<span class=\"font-mono text-xs text-weak uppercase tracking-widest mr-2\">[ SEC 01 ]</span> 実務・インターン経験",
-  "en": "LEGACY / information/ja/introduction",
+  "en": "SITE INFORMATION",
   "category": "机构档案",
-  "department": "information",
+  "department": "站点信息",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1188",
   "title": "Java 线上性能排障：从症状到证据的最小决策树",
-  "en": "LEGACY / note/zh-cn/java-online-performance-debug",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

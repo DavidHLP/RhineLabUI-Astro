@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1199 / OMP Headroom Bridge：外部路由控制器与原生 Codex/OMP 代理边界
-LEGACY / note/zh-cn/omp-headroom-provider-proxy
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

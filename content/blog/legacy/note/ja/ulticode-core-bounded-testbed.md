@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1160",
   "title": "modular monolith を実験場として扱う：UltiCode Core の allowlist、timeout、close-once lifecycle",
-  "en": "LEGACY / note/ja/ulticode-core-bounded-testbed",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

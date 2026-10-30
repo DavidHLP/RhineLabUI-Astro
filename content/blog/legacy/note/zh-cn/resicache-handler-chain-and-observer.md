@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1207",
   "title": "ResiCache 的缓存责任链：控制流、嵌套 fragment 与 observer 生命周期",
-  "en": "LEGACY / note/zh-cn/resicache-handler-chain-and-observer",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

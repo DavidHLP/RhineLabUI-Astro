@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1268 / 微服务数据所有权来源更正：补齐 revision-pinned 文档与 live 页面边界
-LEGACY / raw/zh-cn/microservice-domain-data-ownership-correction
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

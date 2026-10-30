@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1146",
   "title": "Redisson/Jackson による LocalDateTime のデフォルト直列化挙動と書き込み・読み出し非対称の境界",
-  "en": "LEGACY / note/ja/redis-jackson-java-time",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

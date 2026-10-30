@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1084",
   "title": "OMP Hook Extension Concept: Decision-Point Nudges, Hard Blocks, and Status Bridges",
-  "en": "LEGACY / note/en/omp-hook-extension-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-24",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

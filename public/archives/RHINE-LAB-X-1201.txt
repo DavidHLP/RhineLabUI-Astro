@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1201 / 百万级终端插件生命周期管理：状态、心跳与受控发布
-LEGACY / note/zh-cn/plugin-lifecycle-management
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-06-01
 相关人物：DavidHLPL
 访问范围：PUBLIC

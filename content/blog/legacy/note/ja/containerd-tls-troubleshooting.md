@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1110",
   "title": "containerd TLS：信頼チェーンと一時的な検証スキップの判断",
-  "en": "LEGACY / note/ja/containerd-tls-troubleshooting",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

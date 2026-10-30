@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1163",
   "title": "UltiCode の generation と attemptId：条件付き更新で古い判定結果を遮断する",
-  "en": "LEGACY / note/ja/ulticode-generation-attempt-fence",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

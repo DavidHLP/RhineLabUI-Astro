@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1008",
   "title": "ADR 0004 — i18n `t()` returns `string | undefined`; fallback policy lives on the seam",
-  "en": "LEGACY / documentation/docs/adr/0004-i18n-key-fallback",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

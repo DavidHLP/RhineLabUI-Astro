@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1128",
   "title": "Java バックエンド面接の振り返り：プロジェクトの真正性、設計機構、実運用の証拠",
-  "en": "LEGACY / note/ja/java-internship-interview-blog-polished",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

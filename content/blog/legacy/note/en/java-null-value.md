@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1071",
   "title": "NullValue: The Cache-Null Placeholder and Serialization Boundary",
-  "en": "LEGACY / note/en/java-null-value",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2025-10-07",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

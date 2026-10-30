@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1005",
   "title": "ADR 0001 — Monolocale shortcut: skip the locale prefix when only one locale is configured",
-  "en": "LEGACY / documentation/docs/adr/0001-monolocale-shortcut",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1171 / Docker 基础：镜像分层、容器操作与 Compose 网络
-LEGACY / note/zh-cn/docker-fundamentals
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

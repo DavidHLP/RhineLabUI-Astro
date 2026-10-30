@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1221 / UltiCode generation 与 attemptId：用条件更新拦截过期判题结果
-LEGACY / note/zh-cn/ulticode-generation-attempt-fence
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1144",
   "title": "Redis ビジネスパターン：キャッシュ、分散ロック、メッセージキュー、Feed と秒殺",
-  "en": "LEGACY / note/ja/redis-business-patterns",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1006",
   "title": "ADR 0002 — Shared Open Graph pipeline behind two VDOM templates",
-  "en": "LEGACY / documentation/docs/adr/0002-og-pipeline",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

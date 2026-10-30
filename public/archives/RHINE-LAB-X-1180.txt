@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1180 / Hindsight 统一记忆接入：FastMCP 桥接与多项目动态路由
-LEGACY / note/zh-cn/hindsight-omp-codex-integration
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-22
 相关人物：DavidHLPL
 访问范围：PUBLIC

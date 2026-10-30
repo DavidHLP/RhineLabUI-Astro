@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1107 / UltiCode Data Owners and Fact Snapshots: Keeping Cross-Service Submissions Bounded
-LEGACY / note/en/ulticode-owner-and-facts
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

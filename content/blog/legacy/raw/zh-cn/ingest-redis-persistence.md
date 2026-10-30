@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1246",
   "title": "Redis 持久化与原理聚合快照：RDB/AOF、数据结构与高级机制",
-  "en": "LEGACY / raw/zh-cn/ingest-redis-persistence",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1027",
   "title": "DavidHLPL 个人 AI 知识库宪法",
-  "en": "LEGACY / documentation/KB",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1070",
   "title": "Java Backend Interview Retrospective: Project Truth, Engineering Mechanisms, and Production Evidence",
-  "en": "LEGACY / note/en/java-internship-interview-blog-polished",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

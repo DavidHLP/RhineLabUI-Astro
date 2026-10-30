@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1178 / Hindsight 完全本地化部署与 OMP / Codex 统一记忆集成实践（已拆分归档）
-LEGACY / note/zh-cn/hindsight-local-deployment-and-agent-integration
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-17
 相关人物：DavidHLPL
 访问范围：PUBLIC

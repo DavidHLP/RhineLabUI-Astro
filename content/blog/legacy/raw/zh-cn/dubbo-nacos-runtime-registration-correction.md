@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1234",
   "title": "Dubbo 3.3.6 + Nacos 配置键更正：registry URL 参数边界",
-  "en": "LEGACY / raw/zh-cn/dubbo-nacos-runtime-registration-correction",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

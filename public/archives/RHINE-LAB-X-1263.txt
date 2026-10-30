@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1263 / 历史 Headroom 路由恢复：Named Profile 与 model_cache Reconciler
-LEGACY / raw/zh-cn/legacy-omp-headroom-persistence
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-07
 相关人物：DavidHLPL
 访问范围：PUBLIC

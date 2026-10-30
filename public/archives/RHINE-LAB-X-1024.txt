@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1024 / 扬帆启航 · Mono-color 设计图
-LEGACY / documentation/docs/sailing-print
+DOCUMENTATION
 
-科室：documentation
+科室：项目文档
 编目范围：2026-10-05
 相关人物：DavidHLPL
 访问范围：PUBLIC

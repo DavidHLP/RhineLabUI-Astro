@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1190 / KB 会话摄入管道契约：增量复用、redaction v19 与不可变 raw
-LEGACY / note/zh-cn/kb-session-ingest-contract
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

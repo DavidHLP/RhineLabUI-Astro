@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1262 / OMP 配置与规则体系全指南：全局配置、Headroom 代理与 Agent 规则系统
-LEGACY / raw/zh-cn/legacy-omp-config-and-rules-guide
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-07
 相关人物：DavidHLPL
 访问范围：PUBLIC

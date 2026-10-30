@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1168 / containerd TLS：证书信任链与临时跳过验证的决策
-LEGACY / note/zh-cn/containerd-tls-troubleshooting
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-02-24
 相关人物：DavidHLPL
 访问范围：PUBLIC

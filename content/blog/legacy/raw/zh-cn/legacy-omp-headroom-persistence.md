@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1263",
   "title": "历史 Headroom 路由恢复：Named Profile 与 model_cache Reconciler",
-  "en": "LEGACY / raw/zh-cn/legacy-omp-headroom-persistence",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

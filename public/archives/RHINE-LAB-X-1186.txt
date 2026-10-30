@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1186 / Java 后端面试复盘：项目真实性、工程机制与生产证据
-LEGACY / note/zh-cn/java-internship-interview-blog-polished
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-02-24
 相关人物：DavidHLPL
 访问范围：PUBLIC

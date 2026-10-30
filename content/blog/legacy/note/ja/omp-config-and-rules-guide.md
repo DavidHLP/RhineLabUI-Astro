@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1139",
   "title": "OMP 設定の階層：モデルロール、Agent オーバーライド、フォールバックチェーン",
-  "en": "LEGACY / note/ja/omp-config-and-rules-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

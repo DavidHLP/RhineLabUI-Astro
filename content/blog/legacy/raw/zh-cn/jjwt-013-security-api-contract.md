@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1250",
   "title": "JJWT 0.13.0 签名、验签与 audience API 契约",
-  "en": "LEGACY / raw/zh-cn/jjwt-013-security-api-contract",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

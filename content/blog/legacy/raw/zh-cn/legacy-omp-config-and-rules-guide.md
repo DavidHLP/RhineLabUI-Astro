@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1262",
   "title": "OMP 配置与规则体系全指南：全局配置、Headroom 代理与 Agent 规则系统",
-  "en": "LEGACY / raw/zh-cn/legacy-omp-config-and-rules-guide",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

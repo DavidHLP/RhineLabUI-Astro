@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1189 / JJWT 0.13.0：显式固定签名算法，按 key 类型验签
-LEGACY / note/zh-cn/jjwt-013-security-api
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

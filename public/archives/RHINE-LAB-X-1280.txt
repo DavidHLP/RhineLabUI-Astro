@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1280 / Testcontainers 1.20.6 API 协商更正：源码路径与 999.999 版本矩阵
-LEGACY / raw/zh-cn/testcontainers-docker-api-negotiation-correction
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

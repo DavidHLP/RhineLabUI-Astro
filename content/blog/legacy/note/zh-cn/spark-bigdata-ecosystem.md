@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1212",
   "title": "Spark 与大数据生态：Hadoop、HBase、Spark 运行模式与集群",
-  "en": "LEGACY / note/zh-cn/spark-bigdata-ecosystem",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

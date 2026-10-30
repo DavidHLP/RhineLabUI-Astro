@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1194",
   "title": "多服务启动就绪：running、ready 与依赖/失败/重启传播",
-  "en": "LEGACY / note/zh-cn/multi-service-readiness",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

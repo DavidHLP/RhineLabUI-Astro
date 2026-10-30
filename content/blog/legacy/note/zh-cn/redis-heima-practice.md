@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1203",
   "title": "Redis 黑马实战与进阶：分布式缓存、多级缓存与最佳实践",
-  "en": "LEGACY / note/zh-cn/redis-heima-practice",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

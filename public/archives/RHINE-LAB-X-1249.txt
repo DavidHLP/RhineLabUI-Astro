@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1249 / JJWT 0.13.0 API 契约更正：算法推荐边界与 PrivateKey 验签类型
-LEGACY / raw/zh-cn/jjwt-013-security-api-contract-correction
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

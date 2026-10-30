@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1270",
   "title": "多服务启动就绪契约更正：固定来源与最小运行实验",
-  "en": "LEGACY / raw/zh-cn/multi-service-readiness-contract-correction",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

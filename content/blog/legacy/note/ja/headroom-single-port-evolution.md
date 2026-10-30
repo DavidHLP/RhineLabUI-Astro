@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1119",
   "title": "Headroom 単一ポートの総合：入口、動的上流、検証の境界",
-  "en": "LEGACY / note/ja/headroom-single-port-evolution",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

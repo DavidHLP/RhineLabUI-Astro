@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1267",
   "title": "MCP 2026-07-28 规范契约与 codebase-memory-mcp v0.10.2 图工作流",
-  "en": "LEGACY / raw/zh-cn/mcp-codebase-memory-workflow",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

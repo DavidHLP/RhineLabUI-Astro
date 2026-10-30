@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1212 / Spark 与大数据生态：Hadoop、HBase、Spark 运行模式与集群
-LEGACY / note/zh-cn/spark-bigdata-ecosystem
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

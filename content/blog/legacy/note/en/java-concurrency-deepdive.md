@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1069",
   "title": "Java Concurrency Deep Dive: JUC, CAS, Atomics, Locks, and Threading",
-  "en": "LEGACY / note/en/java-concurrency-deepdive",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

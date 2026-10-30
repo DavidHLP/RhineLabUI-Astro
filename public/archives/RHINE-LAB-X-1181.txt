@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1181 / Hindsight 记忆系统运行时排障矩阵与失效模式
-LEGACY / note/zh-cn/hindsight-troubleshooting
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-22
 相关人物：DavidHLPL
 访问范围：PUBLIC

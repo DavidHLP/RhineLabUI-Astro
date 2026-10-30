@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1279 / ResiCache 项目总览：README 与 README.zh-CN 固定提交快照
-LEGACY / raw/zh-cn/resicache-project-overview
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

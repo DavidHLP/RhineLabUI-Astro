@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1186",
   "title": "Java 后端面试复盘：项目真实性、工程机制与生产证据",
-  "en": "LEGACY / note/zh-cn/java-internship-interview-blog-polished",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

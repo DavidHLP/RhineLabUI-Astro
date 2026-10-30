@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1079",
   "title": "MySQL Performance Triage: Symptom → Metric → Layer → Safe Mitigation",
-  "en": "LEGACY / note/en/mysql-performance-troubleshooting",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-06-30",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

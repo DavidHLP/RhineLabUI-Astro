@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1155",
   "title": "Spring Boot と Spring Cloud：自動構成、トランザクション、サービス検出、ゲートウェイと可観測性",
-  "en": "LEGACY / note/ja/spring-cloud-and-boot",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1255",
   "title": "跨越复杂网络：从 Cloudflare Tunnel、Tailscale 到 FRP 的 SSH 内网穿透实践与踩坑闭环",
-  "en": "LEGACY / raw/zh-cn/legacy-intranet-penetration-ssh-guide",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1234 / Dubbo 3.3.6 + Nacos 配置键更正：registry URL 参数边界
-LEGACY / raw/zh-cn/dubbo-nacos-runtime-registration-correction
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

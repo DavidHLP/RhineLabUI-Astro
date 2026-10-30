@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1054",
   "title": "Database Written-Test Review: From SQL Semantics to Batch Data Processing",
-  "en": "LEGACY / note/en/database-written-test-review",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

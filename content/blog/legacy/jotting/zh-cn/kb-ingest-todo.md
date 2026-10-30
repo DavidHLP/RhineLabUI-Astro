@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1051",
   "title": "知识库摄入收件箱",
-  "en": "LEGACY / jotting/zh-cn/kb-ingest-todo",
+  "en": "JOTTINGS",
   "category": "特别项目",
-  "department": "jotting",
+  "department": "随笔",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

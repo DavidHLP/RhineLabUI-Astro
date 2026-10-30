@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1200",
   "title": "OMP Hook 扩展概念：决策点提示、硬阻断与状态桥接",
-  "en": "LEGACY / note/zh-cn/omp-hook-extension-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-24",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

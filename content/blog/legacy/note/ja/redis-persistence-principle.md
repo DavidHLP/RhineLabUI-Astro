@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1147",
   "title": "Redis 永続化と原理：RDB/AOF、データ構造と高度な仕組み",
-  "en": "LEGACY / note/ja/redis-persistence-principle",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

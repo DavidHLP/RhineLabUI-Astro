@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1108 / Do Not Audit Across Owners by Writing Across Databases: UltiCode's Local Outbox and Consumer Inbox
-LEGACY / note/en/ulticode-owner-local-audit-inbox
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

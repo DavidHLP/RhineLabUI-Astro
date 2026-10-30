@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1023 / 扬帆启航 · 无文字修订版
-LEGACY / documentation/docs/sailing-print-no-text
+DOCUMENTATION
 
-科室：documentation
+科室：项目文档
 编目范围：2026-10-05
 相关人物：DavidHLPL
 访问范围：PUBLIC

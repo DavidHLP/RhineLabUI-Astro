@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1240 / 前端与综合随笔聚合快照：Vue、MyBatis、UniApp、缓存注解与环境排障
-LEGACY / raw/zh-cn/ingest-frontend-essays
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

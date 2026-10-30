@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1021",
   "title": "RhineLabUI 博客适配",
-  "en": "LEGACY / documentation/docs/rhine-migration",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1157",
   "title": "Enhanced UISA：異種ノード同期の owner・boundary・復旧モデル",
-  "en": "LEGACY / note/ja/uisa-architecture-design",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-03-25",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

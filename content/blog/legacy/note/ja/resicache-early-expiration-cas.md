@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1148",
   "title": "非同期の早期期限切れが TTL 短縮だけを行う理由：version CAS で古い task を無効化する",
-  "en": "LEGACY / note/ja/resicache-early-expiration-cas",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

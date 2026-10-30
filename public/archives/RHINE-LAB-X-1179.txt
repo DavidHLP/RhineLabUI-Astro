@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1179 / Hindsight 本地算力分工与 Docker 容器化部署
-LEGACY / note/zh-cn/hindsight-local-deployment
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-22
 相关人物：DavidHLPL
 访问范围：PUBLIC

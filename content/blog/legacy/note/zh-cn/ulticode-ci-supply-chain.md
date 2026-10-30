@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1217",
   "title": "UltiCode 验证与供应链门禁：从 static contract 到可验证发布",
-  "en": "LEGACY / note/zh-cn/ulticode-ci-supply-chain",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

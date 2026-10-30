@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1251",
   "title": "LLM Wiki",
-  "en": "LEGACY / raw/zh-cn/karpathy-llm-wiki",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

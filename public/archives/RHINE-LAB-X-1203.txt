@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1203 / Redis 黑马实战与进阶：分布式缓存、多级缓存与最佳实践
-LEGACY / note/zh-cn/redis-heima-practice
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1143",
   "title": "百万端末のプラグインライフサイクル管理：状態・ハートビート・制御されたリリース",
-  "en": "LEGACY / note/ja/plugin-lifecycle-management",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-06-01",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

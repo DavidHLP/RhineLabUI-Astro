@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1189",
   "title": "JJWT 0.13.0：显式固定签名算法，按 key 类型验签",
-  "en": "LEGACY / note/zh-cn/jjwt-013-security-api",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

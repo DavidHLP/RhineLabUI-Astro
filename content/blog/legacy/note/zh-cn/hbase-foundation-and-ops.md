@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1174",
   "title": "HBase 基础、架构与运维：数据模型、表设计、Shell 与 Java API",
-  "en": "LEGACY / note/zh-cn/hbase-foundation-and-ops",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

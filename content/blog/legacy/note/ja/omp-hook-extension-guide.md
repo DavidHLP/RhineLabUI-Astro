@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1142",
   "title": "OMP Hook 拡張の概念：意思決定ポイントのヒント、ハードブロック、ステータス橋渡し",
-  "en": "LEGACY / note/ja/omp-hook-extension-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-24",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

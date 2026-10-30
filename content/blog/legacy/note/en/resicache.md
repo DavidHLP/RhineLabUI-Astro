@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1095",
   "title": "ResiCache: An Orchestratable Responsibility Chain for Spring Cache Protection",
-  "en": "LEGACY / note/en/resicache",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

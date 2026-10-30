@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1208",
   "title": "ResiCache：observer 嵌套执行必须区分生命周期、fragment 与 scope token",
-  "en": "LEGACY / note/zh-cn/resicache-observer-nested-execution",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

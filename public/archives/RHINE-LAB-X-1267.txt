@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1267 / MCP 2026-07-28 规范契约与 codebase-memory-mcp v0.10.2 图工作流
-LEGACY / raw/zh-cn/mcp-codebase-memory-workflow
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

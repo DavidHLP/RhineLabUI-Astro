@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1023",
   "title": "扬帆启航 · 无文字修订版",
-  "en": "LEGACY / documentation/docs/sailing-print-no-text",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

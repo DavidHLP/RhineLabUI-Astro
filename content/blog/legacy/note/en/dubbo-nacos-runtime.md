@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1056",
   "title": "Dubbo + Nacos: Verify the Registration Name and group/version First, Then Run a Real Smoke Test",
-  "en": "LEGACY / note/en/dubbo-nacos-runtime",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1219",
   "title": "UltiCode Docker 沙箱：资源隔离与基础设施错误分类",
-  "en": "LEGACY / note/zh-cn/ulticode-docker-sandbox",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

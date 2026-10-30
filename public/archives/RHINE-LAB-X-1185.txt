@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1185 / Java 并发深度：JUC、CAS、原子类、锁与线程机制
-LEGACY / note/zh-cn/java-concurrency-deepdive
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

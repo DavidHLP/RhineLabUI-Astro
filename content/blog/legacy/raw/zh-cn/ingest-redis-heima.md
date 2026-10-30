@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1245",
   "title": "Redis 黑马实战与进阶：分布式缓存、多级缓存与最佳实践聚合",
-  "en": "LEGACY / raw/zh-cn/ingest-redis-heima",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

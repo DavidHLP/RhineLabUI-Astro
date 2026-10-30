@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1218",
   "title": "把模块化单体当实验场：UltiCode Core 的 Allowlist、超时与 Close-once 生命周期",
-  "en": "LEGACY / note/zh-cn/ulticode-core-bounded-testbed",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

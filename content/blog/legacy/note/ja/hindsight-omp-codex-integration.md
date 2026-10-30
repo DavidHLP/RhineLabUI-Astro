@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1122",
   "title": "Hindsight 統合メモリアクセス：FastMCP ブリッジと動的マルチプロジェクトルーティング",
-  "en": "LEGACY / note/ja/hindsight-omp-codex-integration",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-22",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

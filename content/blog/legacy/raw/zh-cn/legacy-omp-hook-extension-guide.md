@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1264",
   "title": "OMP Hook 扩展实战：从决策点软提示到状态栏集成",
-  "en": "LEGACY / raw/zh-cn/legacy-omp-hook-extension-guide",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

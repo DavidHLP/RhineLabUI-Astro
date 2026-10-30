@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1275",
   "title": "OMP Headroom Bridge 与原生 Codex 路由运行时证据",
-  "en": "LEGACY / raw/zh-cn/omp-headroom-provider-proxy-codex-routing-runtime",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

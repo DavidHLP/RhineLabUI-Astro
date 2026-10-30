@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1017",
   "title": "LLM Wiki 内容收敛设计（KB Convergence Design v1）",
-  "en": "LEGACY / documentation/docs/kb-convergence-design",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

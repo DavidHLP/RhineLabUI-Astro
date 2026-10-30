@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1089",
   "title": "Redis Persistence and Internals: RDB/AOF, Data Structures, and Advanced Mechanisms",
-  "en": "LEGACY / note/en/redis-persistence-principle",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

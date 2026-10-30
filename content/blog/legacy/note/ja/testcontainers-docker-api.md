@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1156",
   "title": "Testcontainers 1.20.6：Docker API バージョンを先に切り分けてから、daemon の利用不可を判断する",
-  "en": "LEGACY / note/ja/testcontainers-docker-api",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

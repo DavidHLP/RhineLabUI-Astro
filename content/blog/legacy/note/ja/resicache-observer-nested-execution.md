@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1150",
   "title": "ResiCache：observer のネスト実行はライフサイクル、fragment、scope token を区別しなければならない",
-  "en": "LEGACY / note/ja/resicache-observer-nested-execution",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1172",
   "title": "Dubbo + Nacos：先核对注册名、group/version，再做真实 smoke test",
-  "en": "LEGACY / note/zh-cn/dubbo-nacos-runtime",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

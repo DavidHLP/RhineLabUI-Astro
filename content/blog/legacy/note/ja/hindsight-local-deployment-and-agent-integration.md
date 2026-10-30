@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1120",
   "title": "Hindsight 完全ローカルデプロイと OMP / Codex 統一メモリ連携の実践",
-  "en": "LEGACY / note/ja/hindsight-local-deployment-and-agent-integration",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-17",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

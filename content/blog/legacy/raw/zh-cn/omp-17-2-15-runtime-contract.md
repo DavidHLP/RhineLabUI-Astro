@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1274",
   "title": "OMP 17.2.15 运行时契约：官方固定点、Hook 事件、Compaction 配置与 Headroom 缺口",
-  "en": "LEGACY / raw/zh-cn/omp-17-2-15-runtime-contract",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

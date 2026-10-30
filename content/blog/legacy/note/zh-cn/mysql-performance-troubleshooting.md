@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1195",
   "title": "MySQL 性能排查：现象→指标→定位层→安全缓解",
-  "en": "LEGACY / note/zh-cn/mysql-performance-troubleshooting",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-06-30",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

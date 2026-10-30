@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1012 / Content Architecture
-LEGACY / documentation/docs/CODEMAPS/content
+DOCUMENTATION
 
-科室：documentation
+科室：项目文档
 编目范围：2026-10-05
 相关人物：DavidHLPL
 访问范围：PUBLIC

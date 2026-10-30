@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1209",
   "title": "换 Redis 序列化器不是改一行配置：从对象信任到可回滚迁移",
-  "en": "LEGACY / note/zh-cn/resicache-serialization-migration",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

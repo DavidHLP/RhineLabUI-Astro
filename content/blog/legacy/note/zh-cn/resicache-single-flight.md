@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1210",
   "title": "缓存击穿时，为什么要同时有 Future、分布式锁和 double-check？",
-  "en": "LEGACY / note/zh-cn/resicache-single-flight",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1183",
   "title": "AtomicBoolean：原子布尔状态与 CAS 边界",
-  "en": "LEGACY / note/zh-cn/java-atomic-boolean",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2025-10-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

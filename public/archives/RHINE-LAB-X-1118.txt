@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1118 / Headroom 0.34 圧縮・取得契約：フィールド、モード、実エンドポイント検証
-LEGACY / note/ja/headroom-compress-retrieve-contract
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-11
 相关人物：DavidHLPL
 访问范围：PUBLIC

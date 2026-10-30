@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1100",
   "title": "UltiCode Async Execution Contract: Idempotency, Fingerprints, and Bounded Receipts",
-  "en": "LEGACY / note/en/ulticode-async-execution-contract",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

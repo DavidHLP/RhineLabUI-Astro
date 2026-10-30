@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1077",
   "title": "Microservice Data Ownership: Establish the Domain Owner First, Then Talk About Database Splitting and Migration",
-  "en": "LEGACY / note/en/microservice-data-ownership",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

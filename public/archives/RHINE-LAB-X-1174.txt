@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1174 / HBase 基础、架构与运维：数据模型、表设计、Shell 与 Java API
-LEGACY / note/zh-cn/hbase-foundation-and-ops
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

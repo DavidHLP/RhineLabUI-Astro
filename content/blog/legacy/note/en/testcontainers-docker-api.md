@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1098",
   "title": "Testcontainers 1.20.6: Rule Out the Docker API Version First, Then Judge the daemon Unavailable",
-  "en": "LEGACY / note/en/testcontainers-docker-api",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

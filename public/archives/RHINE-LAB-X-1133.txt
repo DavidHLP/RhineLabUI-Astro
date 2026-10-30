@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1133 / LLM-Wiki パターン：LLM で蓄積する個人 AI ナレッジベース
-LEGACY / note/ja/llm-wiki-pattern
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-07
 相关人物：DavidHLPL
 访问范围：PUBLIC

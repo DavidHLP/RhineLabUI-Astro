@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1270 / 多服务启动就绪契约更正：固定来源与最小运行实验
-LEGACY / raw/zh-cn/multi-service-readiness-contract-correction
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

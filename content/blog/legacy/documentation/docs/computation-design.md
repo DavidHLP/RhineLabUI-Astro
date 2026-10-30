@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1015",
   "title": "计算机科学编辑视觉",
-  "en": "LEGACY / documentation/docs/computation-design",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

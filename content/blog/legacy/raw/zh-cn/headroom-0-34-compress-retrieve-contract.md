@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1236",
   "title": "Headroom 0.34.0 /v1/compress 与 /v1/retrieve 契约",
-  "en": "LEGACY / raw/zh-cn/headroom-0-34-compress-retrieve-contract",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

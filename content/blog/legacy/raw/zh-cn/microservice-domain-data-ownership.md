@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1269",
   "title": "微服务领域边界与数据所有权：从 database-per-service 到渐进迁移",
-  "en": "LEGACY / raw/zh-cn/microservice-domain-data-ownership",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

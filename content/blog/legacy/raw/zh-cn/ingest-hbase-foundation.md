@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1241",
   "title": "HBase 基础、架构与运维聚合快照：数据模型、表设计、Shell 与 Java API",
-  "en": "LEGACY / raw/zh-cn/ingest-hbase-foundation",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

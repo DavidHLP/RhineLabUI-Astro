@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1159",
   "title": "UltiCode の検証とサプライチェーンゲート：static contract から検証可能なリリースへ",
-  "en": "LEGACY / note/ja/ulticode-ci-supply-chain",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

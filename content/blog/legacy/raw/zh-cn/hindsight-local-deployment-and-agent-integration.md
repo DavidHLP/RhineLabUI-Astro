@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1238",
   "title": "Hindsight 完全本地化部署与 OMP / Codex 统一记忆集成证据快照",
-  "en": "LEGACY / raw/zh-cn/hindsight-local-deployment-and-agent-integration",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-17",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

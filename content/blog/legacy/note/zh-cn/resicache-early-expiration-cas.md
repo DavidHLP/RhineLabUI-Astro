@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1206",
   "title": "异步提前过期为什么只缩短 TTL：用版本 CAS 让旧任务自动失效",
-  "en": "LEGACY / note/zh-cn/resicache-early-expiration-cas",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

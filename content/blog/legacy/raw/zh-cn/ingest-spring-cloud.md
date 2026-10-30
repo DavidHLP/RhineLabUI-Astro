@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1248",
   "title": "Spring Boot 与 Spring Cloud 聚合快照：自动装配、事务、注册发现、网关与可观测性",
-  "en": "LEGACY / raw/zh-cn/ingest-spring-cloud",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

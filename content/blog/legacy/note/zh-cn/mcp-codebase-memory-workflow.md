@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1192",
   "title": "MCP 协议时代边界与 codebase-memory-mcp v0.10.2 图工作流",
-  "en": "LEGACY / note/zh-cn/mcp-codebase-memory-workflow",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

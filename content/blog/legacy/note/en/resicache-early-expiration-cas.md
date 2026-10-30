@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1090",
   "title": "Why Async Early Expiration Only Shortens TTL: Version CAS Makes Stale Jobs Harmless",
-  "en": "LEGACY / note/en/resicache-early-expiration-cas",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

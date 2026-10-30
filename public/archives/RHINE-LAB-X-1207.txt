@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1207 / ResiCache 的缓存责任链：控制流、嵌套 fragment 与 observer 生命周期
-LEGACY / note/zh-cn/resicache-handler-chain-and-observer
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

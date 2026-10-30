@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1190",
   "title": "KB 会话摄入管道契约：增量复用、redaction v19 与不可变 raw",
-  "en": "LEGACY / note/zh-cn/kb-session-ingest-contract",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

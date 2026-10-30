@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1106",
   "title": "UltiCode Outbox and Redis Streams: Making Judge Delivery Recoverable",
-  "en": "LEGACY / note/en/ulticode-outbox-redis-streams",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

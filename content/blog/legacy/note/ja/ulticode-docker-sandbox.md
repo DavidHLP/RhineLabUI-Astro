@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1161",
   "title": "UltiCode Docker sandbox：リソース隔離とインフラエラーの分類",
-  "en": "LEGACY / note/ja/ulticode-docker-sandbox",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

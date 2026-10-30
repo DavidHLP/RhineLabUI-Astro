@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1242 / Java 并发深度聚合快照：JUC、CAS、原子类、锁与线程机制
-LEGACY / raw/zh-cn/ingest-java-concurrency
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

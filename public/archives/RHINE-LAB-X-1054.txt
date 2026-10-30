@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1054 / Database Written-Test Review: From SQL Semantics to Batch Data Processing
-LEGACY / note/en/database-written-test-review
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

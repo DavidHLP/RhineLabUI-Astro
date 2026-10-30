@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1235",
   "title": "Apache Dubbo 3.3.6 + Nacos 运行时注册与 smoke test 契约",
-  "en": "LEGACY / raw/zh-cn/dubbo-nacos-runtime-registration",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

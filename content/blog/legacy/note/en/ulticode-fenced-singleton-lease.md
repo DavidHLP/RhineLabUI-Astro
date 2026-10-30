@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1104",
   "title": "A Database Lease Is Not Enough: UltiCode Uses Fence Tokens to Stop Stale Singleton Jobs",
-  "en": "LEGACY / note/en/ulticode-fenced-singleton-lease",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

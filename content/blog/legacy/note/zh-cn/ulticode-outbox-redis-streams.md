@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1222",
   "title": "UltiCode Outbox 与 Redis Streams：把判题投递做成可恢复状态",
-  "en": "LEGACY / note/zh-cn/ulticode-outbox-redis-streams",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1268",
   "title": "微服务数据所有权来源更正：补齐 revision-pinned 文档与 live 页面边界",
-  "en": "LEGACY / raw/zh-cn/microservice-domain-data-ownership-correction",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1001",
   "title": "Arthas：Java开发者的线上诊断利器",
-  "en": "LEGACY / documentation/arthas",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

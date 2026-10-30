@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1276",
   "title": "Redisson/Jackson 对 LocalDateTime 的默认行为与写读不对称边界",
-  "en": "LEGACY / raw/zh-cn/redis-jackson-java-time-contract",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

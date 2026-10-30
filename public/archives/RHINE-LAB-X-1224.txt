@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1224 / 跨 Owner 审计别靠跨库写入：UltiCode 的 Local Outbox 与 Consumer Inbox
-LEGACY / note/zh-cn/ulticode-owner-local-audit-inbox
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

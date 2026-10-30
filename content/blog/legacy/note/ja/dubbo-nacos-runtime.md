@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1114",
   "title": "Dubbo + Nacos：登録名と group/version を先に確認してから、本物の smoke test を実行する",
-  "en": "LEGACY / note/ja/dubbo-nacos-runtime",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

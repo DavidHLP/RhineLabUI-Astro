@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1278 / ResiCache observer 嵌套执行与 scope token 契约
-LEGACY / raw/zh-cn/resicache-observer-nested-execution-contract
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

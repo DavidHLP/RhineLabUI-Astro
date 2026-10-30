@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1191",
   "title": "LLM-Wiki 模式：用 LLM 增量维护一个持久的个人知识库",
-  "en": "LEGACY / note/zh-cn/llm-wiki-pattern",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

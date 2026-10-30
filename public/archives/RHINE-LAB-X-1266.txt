@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1266 / Enhanced UISA：面向混合云与异构节点的高可靠信息同步架构设计
-LEGACY / raw/zh-cn/legacy-uisa-architecture-design
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-03-25
 相关人物：DavidHLPL
 访问范围：PUBLIC

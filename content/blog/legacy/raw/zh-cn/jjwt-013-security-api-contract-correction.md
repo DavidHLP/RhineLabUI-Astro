@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1249",
   "title": "JJWT 0.13.0 API 契约更正：算法推荐边界与 PrivateKey 验签类型",
-  "en": "LEGACY / raw/zh-cn/jjwt-013-security-api-contract-correction",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

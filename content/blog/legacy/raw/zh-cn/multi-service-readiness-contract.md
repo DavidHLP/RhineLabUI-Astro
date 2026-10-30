@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1271",
   "title": "多服务启动就绪契约：Compose depends_on 与 systemd 排序/依赖边界",
-  "en": "LEGACY / raw/zh-cn/multi-service-readiness-contract",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

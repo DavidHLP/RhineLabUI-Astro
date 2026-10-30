@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1214 / Testcontainers 1.20.6：先排查 Docker API 版本，再判断 daemon 不可用
-LEGACY / note/zh-cn/testcontainers-docker-api
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

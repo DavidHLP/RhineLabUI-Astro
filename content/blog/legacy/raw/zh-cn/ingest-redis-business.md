@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1244",
   "title": "Redis 业务模式聚合快照：缓存、分布式锁、消息队列、Feed 流与秒杀",
-  "en": "LEGACY / raw/zh-cn/ingest-redis-business",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

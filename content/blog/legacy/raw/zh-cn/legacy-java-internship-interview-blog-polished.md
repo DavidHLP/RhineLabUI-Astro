@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1258",
   "title": "从一面到二面：Java 后端实习面试复盘",
-  "en": "LEGACY / raw/zh-cn/legacy-java-internship-interview-blog-polished",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

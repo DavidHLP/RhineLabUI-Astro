@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1116",
   "title": "HBase 基礎・アーキテクチャと運用：データモデル、テーブル設計、Shell と Java API",
-  "en": "LEGACY / note/ja/hbase-foundation-and-ops",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1240",
   "title": "前端与综合随笔聚合快照：Vue、MyBatis、UniApp、缓存注解与环境排障",
-  "en": "LEGACY / raw/zh-cn/ingest-frontend-essays",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

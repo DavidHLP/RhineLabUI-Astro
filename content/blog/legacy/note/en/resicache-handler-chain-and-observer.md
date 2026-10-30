@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1091",
   "title": "ResiCache's Cache Responsibility Chain: Control Flow, Nested Fragments, and Observer Lifecycles",
-  "en": "LEGACY / note/en/resicache-handler-chain-and-observer",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

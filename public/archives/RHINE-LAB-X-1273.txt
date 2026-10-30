@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1273 / OMP 17.2.15 运行时契约更正：Hook 加载、事件、Compaction 与 Headroom 证据边界
-LEGACY / raw/zh-cn/omp-17-2-15-runtime-contract-correction
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

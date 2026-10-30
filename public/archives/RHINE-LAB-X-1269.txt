@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1269 / 微服务领域边界与数据所有权：从 database-per-service 到渐进迁移
-LEGACY / raw/zh-cn/microservice-domain-data-ownership
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

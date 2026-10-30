@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1065 / Hindsight Runtime Troubleshooting Matrix and Failure Modes
-LEGACY / note/en/hindsight-troubleshooting
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-08-22
 相关人物：DavidHLPL
 访问范围：PUBLIC

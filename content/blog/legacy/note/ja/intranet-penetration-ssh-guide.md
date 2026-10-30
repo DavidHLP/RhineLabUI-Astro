@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1124",
   "title": "SSH 内網アクセス：接続方向・公開面・障害復旧",
-  "en": "LEGACY / note/ja/intranet-penetration-ssh-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

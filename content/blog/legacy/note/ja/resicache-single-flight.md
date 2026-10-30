@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1152",
   "title": "cache stampede に Future、distributed lock、double-check が同時に必要な理由",
-  "en": "LEGACY / note/ja/resicache-single-flight",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

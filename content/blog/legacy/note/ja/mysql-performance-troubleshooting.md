@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1137",
   "title": "MySQL パフォーマンス切り分け：現象 → 指標 → 層 → 安全な緩和",
-  "en": "LEGACY / note/ja/mysql-performance-troubleshooting",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-06-30",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

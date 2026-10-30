@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1175",
   "title": "Headroom 与 cc-switch / Claude Code 共存：单一整理与安全边界",
-  "en": "LEGACY / note/zh-cn/headroom-cc-switch-coexistence",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

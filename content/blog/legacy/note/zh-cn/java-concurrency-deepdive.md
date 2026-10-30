@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1185",
   "title": "Java 并发深度：JUC、CAS、原子类、锁与线程机制",
-  "en": "LEGACY / note/zh-cn/java-concurrency-deepdive",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

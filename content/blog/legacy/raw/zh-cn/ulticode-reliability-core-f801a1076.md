@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1284",
   "title": "UltiCode 可靠性与 Core 机制：源码选段固定快照",
-  "en": "LEGACY / raw/zh-cn/ulticode-reliability-core-f801a1076",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

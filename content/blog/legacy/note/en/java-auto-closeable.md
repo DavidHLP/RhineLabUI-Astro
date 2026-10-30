@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1068",
   "title": "AutoCloseable: Resource Ownership and Close-Exception Semantics",
-  "en": "LEGACY / note/en/java-auto-closeable",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2025-10-07",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1057",
   "title": "Frontend and Miscellaneous Essays: Vue, MyBatis, UniApp, Cache Annotations, and Environment Troubleshooting",
-  "en": "LEGACY / note/en/frontend-mybatis-essays",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

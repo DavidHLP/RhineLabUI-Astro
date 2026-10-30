@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1081",
   "title": "OMP Configuration Layers: Model Roles, Agent Overrides, and Fallback Chains",
-  "en": "LEGACY / note/en/omp-config-and-rules-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

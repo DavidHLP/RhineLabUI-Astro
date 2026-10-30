@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1130",
   "title": "Java 本番性能トラブルシューティング：症状から証拠への最小判断木",
-  "en": "LEGACY / note/ja/java-online-performance-debug",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

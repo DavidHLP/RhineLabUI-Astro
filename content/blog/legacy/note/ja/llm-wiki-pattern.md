@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1133",
   "title": "LLM-Wiki パターン：LLM で蓄積する個人 AI ナレッジベース",
-  "en": "LEGACY / note/ja/llm-wiki-pattern",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

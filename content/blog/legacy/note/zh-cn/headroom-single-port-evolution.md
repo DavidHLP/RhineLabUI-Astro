@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1177",
   "title": "Headroom 单端口路由综合：入口、动态上游与验证边界",
-  "en": "LEGACY / note/zh-cn/headroom-single-port-evolution",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

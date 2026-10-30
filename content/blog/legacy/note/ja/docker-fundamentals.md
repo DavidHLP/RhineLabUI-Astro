@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1113",
   "title": "Docker 基礎：イメージレイヤー、コンテナ操作と Compose ネットワーク",
-  "en": "LEGACY / note/ja/docker-fundamentals",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

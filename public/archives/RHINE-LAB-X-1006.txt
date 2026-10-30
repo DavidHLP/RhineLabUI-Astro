@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1006 / ADR 0002 — Shared Open Graph pipeline behind two VDOM templates
-LEGACY / documentation/docs/adr/0002-og-pipeline
+DOCUMENTATION
 
-科室：documentation
+科室：项目文档
 编目范围：2026-10-05
 相关人物：DavidHLPL
 访问范围：PUBLIC

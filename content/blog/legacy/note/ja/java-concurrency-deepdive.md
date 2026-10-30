@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1127",
   "title": "Java 並行処理の深掘り：JUC、CAS、アトミック、ロックとスレッド機構",
-  "en": "LEGACY / note/ja/java-concurrency-deepdive",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

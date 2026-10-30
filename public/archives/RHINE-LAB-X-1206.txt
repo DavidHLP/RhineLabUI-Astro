@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1206 / 异步提前过期为什么只缩短 TTL：用版本 CAS 让旧任务自动失效
-LEGACY / note/zh-cn/resicache-early-expiration-cas
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2026-09-08
 相关人物：DavidHLPL
 访问范围：PUBLIC

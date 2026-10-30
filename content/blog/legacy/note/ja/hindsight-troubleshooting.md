@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1123",
   "title": "Hindsight ランタイムトラブルシューティングマトリクスと失敗モード",
-  "en": "LEGACY / note/ja/hindsight-troubleshooting",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-22",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

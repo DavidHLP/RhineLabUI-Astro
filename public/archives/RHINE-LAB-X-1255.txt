@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1255 / 跨越复杂网络：从 Cloudflare Tunnel、Tailscale 到 FRP 的 SSH 内网穿透实践与踩坑闭环
-LEGACY / raw/zh-cn/legacy-intranet-penetration-ssh-guide
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-07
 相关人物：DavidHLPL
 访问范围：PUBLIC

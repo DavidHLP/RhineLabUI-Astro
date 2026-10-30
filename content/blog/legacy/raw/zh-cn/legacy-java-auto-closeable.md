@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1257",
   "title": "AutoCloseable 随笔：Java 资源管理的优雅解法",
-  "en": "LEGACY / raw/zh-cn/legacy-java-auto-closeable",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-07",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

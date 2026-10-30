@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1135",
   "title": "マイクロサービスデータ所有権：領域 owner を先に決めてから、DB 分割と移行を考える",
-  "en": "LEGACY / note/ja/microservice-data-ownership",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

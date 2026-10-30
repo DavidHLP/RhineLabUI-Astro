@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1061",
   "title": "Headroom Single-Port Synthesis: Entry, Dynamic Upstreams, and Verification Boundaries",
-  "en": "LEGACY / note/en/headroom-single-port-evolution",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

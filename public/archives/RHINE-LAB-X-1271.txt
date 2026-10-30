@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1271 / 多服务启动就绪契约：Compose depends_on 与 systemd 排序/依赖边界
-LEGACY / raw/zh-cn/multi-service-readiness-contract
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

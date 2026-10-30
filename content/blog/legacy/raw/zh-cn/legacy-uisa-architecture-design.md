@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1266",
   "title": "Enhanced UISA：面向混合云与异构节点的高可靠信息同步架构设计",
-  "en": "LEGACY / raw/zh-cn/legacy-uisa-architecture-design",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-03-25",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

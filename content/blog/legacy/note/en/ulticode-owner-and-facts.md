@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1107",
   "title": "UltiCode Data Owners and Fact Snapshots: Keeping Cross-Service Submissions Bounded",
-  "en": "LEGACY / note/en/ulticode-owner-and-facts",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

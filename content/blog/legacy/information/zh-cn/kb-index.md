@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1045",
   "title": "知识库目录",
-  "en": "LEGACY / information/zh-cn/kb-index",
+  "en": "SITE INFORMATION",
   "category": "机构档案",
-  "department": "information",
+  "department": "站点信息",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

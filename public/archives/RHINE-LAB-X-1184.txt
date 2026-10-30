@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1184 / AutoCloseable：资源所有权与关闭异常语义
-LEGACY / note/zh-cn/java-auto-closeable
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2025-10-07
 相关人物：DavidHLPL
 访问范围：PUBLIC

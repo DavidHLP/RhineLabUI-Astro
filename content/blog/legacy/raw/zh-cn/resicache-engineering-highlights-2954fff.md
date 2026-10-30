@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1277",
   "title": "ResiCache 当前主线工程化亮点：源码与测试选段固定快照",
-  "en": "LEGACY / raw/zh-cn/resicache-engineering-highlights-2954fff",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

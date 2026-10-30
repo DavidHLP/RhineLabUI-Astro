@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1166",
   "title": "Owner 間 audit を cross-database write にしない：UltiCode の Local Outbox と Consumer Inbox",
-  "en": "LEGACY / note/ja/ulticode-owner-local-audit-inbox",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

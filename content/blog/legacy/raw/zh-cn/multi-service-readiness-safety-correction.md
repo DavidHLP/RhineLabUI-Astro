@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1272",
   "title": "多服务启动就绪验证安全更正：Compose project 隔离与 down 边界",
-  "en": "LEGACY / raw/zh-cn/multi-service-readiness-safety-correction",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

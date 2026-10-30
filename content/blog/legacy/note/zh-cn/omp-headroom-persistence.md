@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1198",
   "title": "Headroom 路由持久化综合：Named Profile、model_cache 与恢复",
-  "en": "LEGACY / note/zh-cn/omp-headroom-persistence",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

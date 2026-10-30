@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1193",
   "title": "微服务数据所有权：先定领域 owner，再谈拆库与迁移",
-  "en": "LEGACY / note/zh-cn/microservice-data-ownership",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -16,6 +16,8 @@ const documents = files.filter(path => /\.(md|mdx|txt|pdf)$/i.test(path) ||
 const assets = files.filter(path => (path.startsWith("public/") || path.startsWith(".github/assets/")) &&
   (/\.(png|webp|jpe?g|gif|svg|ico)$/.test(path) || path.startsWith("public/licenses/")));
 const categories = { note: "工程研究", raw: "能量研究", information: "机构档案", preface: "生命科学", jotting: "特别项目" };
+const headings = { note: "ENGINEERING NOTES", raw: "SOURCE ARCHIVE", information: "SITE INFORMATION", preface: "PREFACE", jotting: "JOTTINGS", documentation: "DOCUMENTATION" };
+const departments = { note: "工程笔记", raw: "原始资料", information: "站点信息", preface: "序文", jotting: "随笔", documentation: "项目文档" };
 const entries = [];
 const routes = {};
 const missingResources = [];
@@ -129,8 +131,8 @@ for (const [index, entry] of entries.entries()) {
   const date = new Date(data.timestamp ?? data.capturedAt ?? capturedAt).toISOString();
   const metadata = {
     archiveId: `X-${String(index + 1001).padStart(3, "0")}`,
-    title: entry.title, en: `LEGACY / ${key.replace(/\.(mdx?|yaml)$/, "")}`,
-    category: entry.category, department: key.split("/")[0], date: date.slice(0, 10),
+    title: entry.title, en: headings[key.split("/")[0]],
+    category: entry.category, department: departments[key.split("/")[0]], date: date.slice(0, 10),
     lead: data.author || "DavidHLPL", clearance: data.draft ? "DRAFT" : "PUBLIC",
     abstract: data.description || `${entry.title} · ${path}`,
     findings: [`Original document: ${path}`, `Source revision: ${revision}`, ...(data.status ? [`Evidence status: ${data.status}`] : [])],

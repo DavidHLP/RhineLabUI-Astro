@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1034",
   "title": "Knowledge Base Operation Log",
-  "en": "LEGACY / information/en/kb-log",
+  "en": "SITE INFORMATION",
   "category": "机构档案",
-  "department": "information",
+  "department": "站点信息",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

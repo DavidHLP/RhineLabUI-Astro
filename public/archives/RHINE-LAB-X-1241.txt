@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1241 / HBase 基础、架构与运维聚合快照：数据模型、表设计、Shell 与 Java API
-LEGACY / raw/zh-cn/ingest-hbase-foundation
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

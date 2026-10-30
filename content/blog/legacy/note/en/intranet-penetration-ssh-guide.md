@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1066",
   "title": "SSH Intranet Access: Connection Direction, Exposure, and Recovery",
-  "en": "LEGACY / note/en/intranet-penetration-ssh-guide",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-07-31",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1202",
   "title": "Redis 业务模式：缓存、分布式锁、消息队列、Feed 流与秒杀",
-  "en": "LEGACY / note/zh-cn/redis-business-patterns",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

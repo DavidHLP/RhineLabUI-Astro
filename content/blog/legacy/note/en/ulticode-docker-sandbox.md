@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1103",
   "title": "UltiCode Docker Sandbox: Resource Isolation and Infrastructure Error Classification",
-  "en": "LEGACY / note/en/ulticode-docker-sandbox",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

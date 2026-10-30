@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1028",
   "title": "DavidHLPL · ThoughtLite ナレッジベース",
-  "en": "LEGACY / documentation/README.ja",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

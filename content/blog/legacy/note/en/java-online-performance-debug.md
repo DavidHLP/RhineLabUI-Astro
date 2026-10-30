@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1072",
   "title": "Java Production Performance Troubleshooting: A Minimal Symptom-to-Evidence Decision Tree",
-  "en": "LEGACY / note/en/java-online-performance-debug",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-02-24",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

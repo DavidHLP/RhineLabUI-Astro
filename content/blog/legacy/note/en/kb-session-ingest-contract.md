@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1074",
   "title": "KB Session Ingestion Pipeline Contract: Incremental Reuse, Redaction v19, and Immutable Raw",
-  "en": "LEGACY / note/en/kb-session-ingest-contract",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

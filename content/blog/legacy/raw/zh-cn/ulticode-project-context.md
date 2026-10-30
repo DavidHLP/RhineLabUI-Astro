@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1283",
   "title": "UltiCode 项目上下文：README 与 CONTEXT 领域词汇表固定提交快照",
-  "en": "LEGACY / raw/zh-cn/ulticode-project-context",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

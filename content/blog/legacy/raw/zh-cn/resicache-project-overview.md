@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1279",
   "title": "ResiCache 项目总览：README 与 README.zh-CN 固定提交快照",
-  "en": "LEGACY / raw/zh-cn/resicache-project-overview",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

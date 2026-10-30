@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1129",
   "title": "NullValue：キャッシュ null のプレースホルダーとシリアライズ境界",
-  "en": "LEGACY / note/ja/java-null-value",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2025-10-07",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

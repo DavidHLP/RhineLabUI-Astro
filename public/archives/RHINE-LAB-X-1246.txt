@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1246 / Redis 持久化与原理聚合快照：RDB/AOF、数据结构与高级机制
-LEGACY / raw/zh-cn/ingest-redis-persistence
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

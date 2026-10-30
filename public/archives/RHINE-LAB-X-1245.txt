@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1245 / Redis 黑马实战与进阶：分布式缓存、多级缓存与最佳实践聚合
-LEGACY / raw/zh-cn/ingest-redis-heima
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1236 / Headroom 0.34.0 /v1/compress 与 /v1/retrieve 契约
-LEGACY / raw/zh-cn/headroom-0-34-compress-retrieve-contract
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-12
 相关人物：DavidHLPL
 访问范围：PUBLIC

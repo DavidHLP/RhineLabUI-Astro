@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1088",
   "title": "Redisson/Jackson's Default Serialization Behavior for LocalDateTime and the Write-Read Asymmetry Boundary",
-  "en": "LEGACY / note/en/redis-jackson-java-time",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

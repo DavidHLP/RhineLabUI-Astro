@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1141",
   "title": "OMP Headroom Bridge：外部ルーティングコントローラとネイティブ Codex/OMP プロキシ境界",
-  "en": "LEGACY / note/ja/omp-headroom-provider-proxy",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

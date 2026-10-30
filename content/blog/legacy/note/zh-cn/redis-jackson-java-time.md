@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1204",
   "title": "Redisson/Jackson 对 LocalDateTime 的默认序列化行为与写读不对称边界",
-  "en": "LEGACY / note/zh-cn/redis-jackson-java-time",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

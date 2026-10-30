@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1252",
   "title": "KB 会话摄入管道契约（redaction v19）",
-  "en": "LEGACY / raw/zh-cn/kb-ingest-pipeline-v19",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

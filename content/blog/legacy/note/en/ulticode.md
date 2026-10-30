@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1109",
   "title": "UltiCode: Modular Architecture and Domain Boundaries of an Online Judge Platform",
-  "en": "LEGACY / note/en/ulticode",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

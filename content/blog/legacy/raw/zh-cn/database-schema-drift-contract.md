@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1232",
   "title": "Flyway 13.2.0 × MySQL 8.4 schema drift 诊断契约",
-  "en": "LEGACY / raw/zh-cn/database-schema-drift-contract",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1224",
   "title": "跨 Owner 审计别靠跨库写入：UltiCode 的 Local Outbox 与 Consumer Inbox",
-  "en": "LEGACY / note/zh-cn/ulticode-owner-local-audit-inbox",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

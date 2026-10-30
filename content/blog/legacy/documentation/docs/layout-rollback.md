@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1018",
   "title": "原始布局与最新配色",
-  "en": "LEGACY / documentation/docs/layout-rollback",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

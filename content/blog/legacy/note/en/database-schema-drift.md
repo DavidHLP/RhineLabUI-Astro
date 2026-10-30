@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1053",
   "title": "Database Schema Drift: Locating with the history, schema, and query Views",
-  "en": "LEGACY / note/en/database-schema-drift",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

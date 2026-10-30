@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1136",
   "title": "マルチサービス起動レディネス：running、ready と依存/失敗/再起動の伝播",
-  "en": "LEGACY / note/ja/multi-service-readiness",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1247 / Spark 与大数据生态聚合快照：Hadoop、HBase、Spark 运行模式与集群
-LEGACY / raw/zh-cn/ingest-spark-ecosystem
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-20
 相关人物：DavidHLPL
 访问范围：PUBLIC

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1108",
   "title": "Do Not Audit Across Owners by Writing Across Databases: UltiCode's Local Outbox and Consumer Inbox",
-  "en": "LEGACY / note/en/ulticode-owner-local-audit-inbox",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

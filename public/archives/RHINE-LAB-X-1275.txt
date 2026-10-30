@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1275 / OMP Headroom Bridge 与原生 Codex 路由运行时证据
-LEGACY / raw/zh-cn/omp-headroom-provider-proxy-codex-routing-runtime
+SOURCE ARCHIVE
 
-科室：raw
+科室：原始资料
 编目范围：2026-08-13
 相关人物：DavidHLPL
 访问范围：PUBLIC

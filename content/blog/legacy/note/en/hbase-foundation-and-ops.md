@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1058",
   "title": "HBase Fundamentals, Architecture, and Operations: Data Model, Table Design, Shell, and Java API",
-  "en": "LEGACY / note/en/hbase-foundation-and-ops",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

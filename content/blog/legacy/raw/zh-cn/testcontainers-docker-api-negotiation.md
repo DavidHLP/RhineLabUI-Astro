@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1281",
   "title": "Testcontainers 1.20.6 Docker API 版本协商与失败边界",
-  "en": "LEGACY / raw/zh-cn/testcontainers-docker-api-negotiation",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

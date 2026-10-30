@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1050 / 知识库摄入收件箱
-LEGACY / jotting/ja/kb-ingest-todo
+JOTTINGS
 
-科室：jotting
+科室：随笔
 编目范围：2026-08-07
 相关人物：DavidHLPL
 访问范围：PUBLIC

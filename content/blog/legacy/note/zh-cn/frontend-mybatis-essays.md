@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1173",
   "title": "前端与综合随笔：Vue、MyBatis、UniApp、缓存注解与环境排障（已溶解归档）",
-  "en": "LEGACY / note/zh-cn/frontend-mybatis-essays",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

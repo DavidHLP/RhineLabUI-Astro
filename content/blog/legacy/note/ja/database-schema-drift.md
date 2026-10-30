@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1111",
   "title": "データベース Schema ドリフト：history、schema、query の三ビューで特定する",
-  "en": "LEGACY / note/ja/database-schema-drift",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

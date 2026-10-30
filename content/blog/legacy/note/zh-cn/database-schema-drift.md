@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1169",
   "title": "数据库 Schema 漂移：用 history、schema 与 query 三视图定位",
-  "en": "LEGACY / note/zh-cn/database-schema-drift",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

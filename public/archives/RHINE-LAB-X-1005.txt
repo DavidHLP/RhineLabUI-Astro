@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1005 / ADR 0001 — Monolocale shortcut: skip the locale prefix when only one locale is configured
-LEGACY / documentation/docs/adr/0001-monolocale-shortcut
+DOCUMENTATION
 
-科室：documentation
+科室：项目文档
 编目范围：2026-10-05
 相关人物：DavidHLPL
 访问范围：PUBLIC

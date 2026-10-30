@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1225",
   "title": "UltiCode：把在线评测做成可验证的工程系统",
-  "en": "LEGACY / note/zh-cn/ulticode",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-08",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

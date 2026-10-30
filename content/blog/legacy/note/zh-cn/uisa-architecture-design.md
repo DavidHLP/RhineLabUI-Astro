@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1215",
   "title": "Enhanced UISA：异构节点信息同步的 owner、边界与恢复模型",
-  "en": "LEGACY / note/zh-cn/uisa-architecture-design",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-03-25",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1243",
   "title": "MySQL 存储引擎与死锁检测聚合快照",
-  "en": "LEGACY / raw/zh-cn/ingest-mysql-storage",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

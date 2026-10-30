@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1183 / AtomicBoolean：原子布尔状态与 CAS 边界
-LEGACY / note/zh-cn/java-atomic-boolean
+ENGINEERING NOTES
 
-科室：note
+科室：工程笔记
 编目范围：2025-10-07
 相关人物：DavidHLPL
 访问范围：PUBLIC

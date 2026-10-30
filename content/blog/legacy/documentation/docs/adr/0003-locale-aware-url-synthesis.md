@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1007",
   "title": "ADR 0003 — Locale-aware URL synthesis: a single `contentUrl` seam",
-  "en": "LEGACY / documentation/docs/adr/0003-locale-aware-url-synthesis",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

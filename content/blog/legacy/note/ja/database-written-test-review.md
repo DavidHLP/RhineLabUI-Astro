@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1112",
   "title": "データベース筆記試験の復盤：SQL セマンティクスからバッチ処理まで",
-  "en": "LEGACY / note/ja/database-written-test-review",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-09-12",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

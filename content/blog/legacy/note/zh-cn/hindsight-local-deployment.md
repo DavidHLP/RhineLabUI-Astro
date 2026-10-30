@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1179",
   "title": "Hindsight 本地算力分工与 Docker 容器化部署",
-  "en": "LEGACY / note/zh-cn/hindsight-local-deployment",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-22",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

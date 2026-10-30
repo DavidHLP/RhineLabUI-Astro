@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1118",
   "title": "Headroom 0.34 圧縮・取得契約：フィールド、モード、実エンドポイント検証",
-  "en": "LEGACY / note/ja/headroom-compress-retrieve-contract",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-11",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

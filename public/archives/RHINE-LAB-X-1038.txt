@@ -1,8 +1,8 @@
 ﻿RHINE LAB · INTERNAL DATABASE
 FILE X-1038 / <span class="font-mono text-xs text-weak uppercase tracking-widest mr-2">[ SEC 01 ]</span> 実務・インターン経験
-LEGACY / information/ja/introduction
+SITE INFORMATION
 
-科室：information
+科室：站点信息
 编目范围：2026-10-05
 相关人物：DavidHLPL
 访问范围：PUBLIC

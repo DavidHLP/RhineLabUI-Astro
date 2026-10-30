@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1064",
   "title": "Hindsight Unified Memory Access: FastMCP Bridge and Dynamic Multi-Project Routing",
-  "en": "LEGACY / note/en/hindsight-omp-codex-integration",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-22",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

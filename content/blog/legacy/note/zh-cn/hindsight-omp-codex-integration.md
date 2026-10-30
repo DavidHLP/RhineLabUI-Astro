@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1180",
   "title": "Hindsight 统一记忆接入：FastMCP 桥接与多项目动态路由",
-  "en": "LEGACY / note/zh-cn/hindsight-omp-codex-integration",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-22",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1019",
   "title": "Mono-color 全站设计",
-  "en": "LEGACY / documentation/docs/mono-color-design",
+  "en": "DOCUMENTATION",
   "category": "特别项目",
-  "department": "documentation",
+  "department": "项目文档",
   "date": "2026-10-05",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

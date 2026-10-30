@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1239",
   "title": "Docker 基础与容器化：镜像分层、数据卷、网络与 Compose 快照",
-  "en": "LEGACY / raw/zh-cn/ingest-docker-fundamentals",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

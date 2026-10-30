@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1278",
   "title": "ResiCache observer 嵌套执行与 scope token 契约",
-  "en": "LEGACY / raw/zh-cn/resicache-observer-nested-execution-contract",
+  "en": "SOURCE ARCHIVE",
   "category": "能量研究",
-  "department": "raw",
+  "department": "原始资料",
   "date": "2026-08-13",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",

@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1134",
   "title": "MCP プロトコル時代の境界と codebase-memory-mcp v0.10.2 のグラフワークフロー",
-  "en": "LEGACY / note/ja/mcp-codebase-memory-workflow",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-12",
   "lead": "DavidHLPL",
   "clearance": "DRAFT",

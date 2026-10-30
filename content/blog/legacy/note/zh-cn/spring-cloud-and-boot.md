@@ -2,9 +2,9 @@
 {
   "archiveId": "X-1213",
   "title": "Spring Boot 与 Spring Cloud：自动装配、事务、注册发现、网关与可观测性",
-  "en": "LEGACY / note/zh-cn/spring-cloud-and-boot",
+  "en": "ENGINEERING NOTES",
   "category": "工程研究",
-  "department": "note",
+  "department": "工程笔记",
   "date": "2026-08-20",
   "lead": "DavidHLPL",
   "clearance": "PUBLIC",
