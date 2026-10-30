@@ -1,7 +1,7 @@
 ---
 import manifest from "../../migration/manifest.json";
 export function getStaticPaths() {
-  return Object.entries(manifest.routes).map(([path, target]) => ({
+  return Object.entries(manifest.routes).filter(([path]) => !path.endsWith("/feed.xml")).map(([path, target]) => ({
     params: { legacy: path.slice(1) },
     props: { target, log: path.endsWith("/kb") ? manifest.routes[path.replace(/\/kb$/, "/kb-log") as keyof typeof manifest.routes] : undefined },
   }));

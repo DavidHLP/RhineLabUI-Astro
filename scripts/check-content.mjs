@@ -287,6 +287,12 @@ test("built pages carry one article body while shared search retains every publi
   const pages = paths.filter(path => path === "index.html" || /^blog\/.*\/index\.html$/.test(path.replaceAll("\\", "/")));
   assert.equal(pages.length, published.records.length + 1);
   const migration = JSON.parse(await readFile(new URL("../migration/manifest.json", import.meta.url), "utf8"));
+  for (const [path, target] of Object.entries(migration.routes)) {
+    const output = new URL(path.slice(1) + (target === "/rss.xml" ? "" : "/index.html"), dist);
+    const html = await readFile(output, "utf8");
+    if (target === "/rss.xml") assert.equal(html, await readFile(new URL("rss.xml", dist), "utf8"));
+    else assert.ok(html.includes(`href="${target}"`), `Missing compatibility destination: ${path}`);
+  }
   for (const entry of migration.entries) {
     const page = `${entry.slug.replace(/^/, "blog/")}/index.html`;
     assert.equal(paths.includes(page), !entry.draft, `Wrong publication path: ${page}`);
