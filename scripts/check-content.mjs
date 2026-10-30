@@ -49,6 +49,9 @@ test("legacy documents retain provenance, metadata, draft state and route target
   assert.ok(raw.body.includes("```"));
   assert.ok(raw.body.includes("```markdown\n---\ntitle: Redis持久化"));
   assert.ok(manifest.missingResources.length > 0, "Pre-existing missing images must be disclosed");
+  const readme = live.get(manifest.entries.find(entry => entry.path === "README.md").archiveId);
+  assert.ok(readme.body.includes(`${manifest.repository}/blob/${manifest.revision}/public/fonts/NOTICE.txt`));
+  assert.ok(!readme.body.includes("https://davidhlp.github.io/documentation/public/"));
 });
 test("large columns keep distinct article identities without changing cell coordinates", async () => {
   const previousDocument = globalThis.document;

@@ -118,9 +118,9 @@ pnpm preview
 
 主な設定入口は次のとおりです。
 
-- [`site.config.ts`](https://davidhlp.github.io/documentation/site.config.ts) — サイト情報、作者、説明、ロケール、ページネーション、Feed、最新コンテンツ。
-- [`astro.config.ts`](https://davidhlp.github.io/documentation/astro.config.ts) — Astro 統合、Markdown/MDX 処理、多言語ルーティング、エイリアス、サイトマップ、ビルド動作。
-- [`src/i18n/`](https://davidhlp.github.io/documentation/src/i18n/) — UI 翻訳とラベル。
+- [`site.config.ts`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/site.config.ts) — サイト情報、作者、説明、ロケール、ページネーション、Feed、最新コンテンツ。
+- [`astro.config.ts`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/astro.config.ts) — Astro 統合、Markdown/MDX 処理、多言語ルーティング、エイリアス、サイトマップ、ビルド動作。
+- [`src/i18n/`](https://github.com/DavidHLP/DavidHLP.github.io/tree/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/src/i18n) — UI 翻訳とラベル。
 
 ## デプロイと検証
 
@@ -141,10 +141,10 @@ node scripts/editorial-smoke.mjs
 
 このリポジトリは、二つの上流レイヤーと本サイトのコンテンツ/統合コードで構成されています。
 
-- [ThoughtLite](https://github.com/tuyuritio/astro-theme-thought-lite) が元の Astro コンテンツテーマ基盤を提供します。[上流 README](https://raw.githubusercontent.com/tuyuritio/astro-theme-thought-lite/refs/heads/main/README.md)も参照してください。本プロジェクトのライセンスは [GPLv3](https://davidhlp.github.io/documentation/LICENSE) です。
+- [ThoughtLite](https://github.com/tuyuritio/astro-theme-thought-lite) が元の Astro コンテンツテーマ基盤を提供します。[上流 README](https://raw.githubusercontent.com/tuyuritio/astro-theme-thought-lite/refs/heads/main/README.md)も参照してください。本プロジェクトのライセンスは [GPLv3](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/LICENSE) です。
 - [RhineLabUI](https://github.com/LBEILC/RhineLabUI) が適応済み Three.js アーカイブ画面を提供します。統合ソースは `src/rhine/` にあり、レビュー済みコミット `8799b03179a9a0ebd2611843e644a5a0530b24bf` に固定しています。[上流 README](https://raw.githubusercontent.com/LBEILC/RhineLabUI/refs/heads/main/README.md) とローカルの [MIT ライセンス通知](/legacy-assets/licenses/RhineLabUI-MIT.txt)を参照してください。
 
-RhineLabUI の MIT 通知は対象となる適応 UI コードにのみ適用され、このリポジトリ内のすべてのファイルやアセットを自動的に MIT へ再ライセンスするものではありません。MiSans、Rolling Number、音声、その他の依存関係、関連作品の名称・ロゴ・モデル・原資料には、それぞれの権利と通知が適用されます。詳細：[`public/fonts/NOTICE.txt`](https://davidhlp.github.io/documentation/public/fonts/NOTICE.txt)、[`public/audio/README.md`](https://davidhlp.github.io/documentation/public/audio/README.md)、[`public/licenses/rolling-number.txt`](/legacy-assets/licenses/rolling-number.txt)、[`docs/rhine-migration.md`](/blog/legacy/documentation/docs/rhine-migration/)。
+RhineLabUI の MIT 通知は対象となる適応 UI コードにのみ適用され、このリポジトリ内のすべてのファイルやアセットを自動的に MIT へ再ライセンスするものではありません。MiSans、Rolling Number、音声、その他の依存関係、関連作品の名称・ロゴ・モデル・原資料には、それぞれの権利と通知が適用されます。詳細：[`public/fonts/NOTICE.txt`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/public/fonts/NOTICE.txt)、[`public/audio/README.md`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/public/audio/README.md)、[`public/licenses/rolling-number.txt`](/legacy-assets/licenses/rolling-number.txt)、[`docs/rhine-migration.md`](/blog/legacy/documentation/docs/rhine-migration/)。
 
 元の RhineLabUI は非公式のインターフェース再現であり、参照されるゲーム、キャラクター、ロゴ、映像の権利者とは提携していません。第三者作品の権利は各権利者に帰属します。
 

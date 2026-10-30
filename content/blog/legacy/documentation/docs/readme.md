@@ -54,7 +54,7 @@ docs/
 - **Scripts**: [docs/SCRIPTS.md](/blog/legacy/documentation/docs/scripts/) - All available npm commands
 - **Environment**: [docs/ENV.md](/blog/legacy/documentation/docs/env/) - Configuration and environment variables
 - **Deployment**: [docs/RUNBOOK.md](/blog/legacy/documentation/docs/runbook/) - How to deploy and troubleshoot
-- **Architecture**: [docs/CODEMAPS/](https://davidhlp.github.io/documentation/docs/CODEMAPS/) - System design and structure
+- **Architecture**: [docs/CODEMAPS/](https://github.com/DavidHLP/DavidHLP.github.io/tree/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/docs/CODEMAPS) - System design and structure
 
 ## For Contributors
 

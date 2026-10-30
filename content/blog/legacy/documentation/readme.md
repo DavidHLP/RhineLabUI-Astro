@@ -140,9 +140,9 @@ The knowledge base uses `zh-cn` as its canonical language. English and Japanese 
 
 The main configuration entry points are:
 
-- [`site.config.ts`](https://davidhlp.github.io/documentation/site.config.ts) — site identity, author, description, locales, pagination, feed, and latest-content settings.
-- [`astro.config.ts`](https://davidhlp.github.io/documentation/astro.config.ts) — Astro integrations, Markdown/MDX processing, locale routing, aliases, sitemap, and build behavior.
-- [`src/i18n/`](https://davidhlp.github.io/documentation/src/i18n/) — interface translations and labels.
+- [`site.config.ts`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/site.config.ts) — site identity, author, description, locales, pagination, feed, and latest-content settings.
+- [`astro.config.ts`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/astro.config.ts) — Astro integrations, Markdown/MDX processing, locale routing, aliases, sitemap, and build behavior.
+- [`src/i18n/`](https://github.com/DavidHLP/DavidHLP.github.io/tree/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/src/i18n) — interface translations and labels.
 
 ## Deployment and validation
 
@@ -163,10 +163,10 @@ node scripts/editorial-smoke.mjs
 
 This repository combines two upstream layers with the site's own content and integration code:
 
-- [ThoughtLite](https://github.com/tuyuritio/astro-theme-thought-lite) provides the original Astro content-theme foundation. See the [upstream README](https://raw.githubusercontent.com/tuyuritio/astro-theme-thought-lite/refs/heads/main/README.md). The project license remains [GPLv3](https://davidhlp.github.io/documentation/LICENSE).
+- [ThoughtLite](https://github.com/tuyuritio/astro-theme-thought-lite) provides the original Astro content-theme foundation. See the [upstream README](https://raw.githubusercontent.com/tuyuritio/astro-theme-thought-lite/refs/heads/main/README.md). The project license remains [GPLv3](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/LICENSE).
 - [RhineLabUI](https://github.com/LBEILC/RhineLabUI) provides the adapted Three.js archive interface. The integrated source is kept at `src/rhine/` and pinned to the reviewed commit `8799b03179a9a0ebd2611843e644a5a0530b24bf`. See the [upstream README](https://raw.githubusercontent.com/LBEILC/RhineLabUI/refs/heads/main/README.md) and the local [MIT license notice](/legacy-assets/licenses/RhineLabUI-MIT.txt).
 
-The RhineLabUI MIT notice applies only to the covered adapted interface code; it does not relicense every file or asset in this repository. MiSans, Rolling Number, audio files, other dependencies, and the names, logos, models, and source material associated with the referenced work retain their own rights and notices. See [`public/fonts/NOTICE.txt`](https://davidhlp.github.io/documentation/public/fonts/NOTICE.txt), [`public/audio/README.md`](https://davidhlp.github.io/documentation/public/audio/README.md), [`public/licenses/rolling-number.txt`](/legacy-assets/licenses/rolling-number.txt), and [`docs/rhine-migration.md`](/blog/legacy/documentation/docs/rhine-migration/).
+The RhineLabUI MIT notice applies only to the covered adapted interface code; it does not relicense every file or asset in this repository. MiSans, Rolling Number, audio files, other dependencies, and the names, logos, models, and source material associated with the referenced work retain their own rights and notices. See [`public/fonts/NOTICE.txt`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/public/fonts/NOTICE.txt), [`public/audio/README.md`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/public/audio/README.md), [`public/licenses/rolling-number.txt`](/legacy-assets/licenses/rolling-number.txt), and [`docs/rhine-migration.md`](/blog/legacy/documentation/docs/rhine-migration/).
 
 The original RhineLabUI project is an unofficial interface recreation and is not affiliated with the owners of the referenced game, characters, logos, or source video. The rights to those third-party works remain with their respective owners.
 

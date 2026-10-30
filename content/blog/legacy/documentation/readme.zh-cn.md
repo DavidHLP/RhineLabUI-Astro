@@ -140,9 +140,9 @@ pnpm preview
 
 主要配置入口如下：
 
-- [`site.config.ts`](https://davidhlp.github.io/documentation/site.config.ts) — 站点身份、作者、描述、语言、分页、Feed 和最新内容设置。
-- [`astro.config.ts`](https://davidhlp.github.io/documentation/astro.config.ts) — Astro 集成、Markdown/MDX 处理、多语言路由、别名、站点地图和构建行为。
-- [`src/i18n/`](https://davidhlp.github.io/documentation/src/i18n/) — 界面翻译和标签。
+- [`site.config.ts`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/site.config.ts) — 站点身份、作者、描述、语言、分页、Feed 和最新内容设置。
+- [`astro.config.ts`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/astro.config.ts) — Astro 集成、Markdown/MDX 处理、多语言路由、别名、站点地图和构建行为。
+- [`src/i18n/`](https://github.com/DavidHLP/DavidHLP.github.io/tree/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/src/i18n) — 界面翻译和标签。
 
 ## 部署与验证
 
@@ -163,10 +163,10 @@ node scripts/editorial-smoke.mjs
 
 本仓库由两个上游层和本站自己的内容/集成代码组成：
 
-- [ThoughtLite](https://github.com/tuyuritio/astro-theme-thought-lite) 提供原始 Astro 内容主题基础，可参阅[上游 README](https://raw.githubusercontent.com/tuyuritio/astro-theme-thought-lite/refs/heads/main/README.md)。本项目继续使用 [GPLv3](https://davidhlp.github.io/documentation/LICENSE)。
+- [ThoughtLite](https://github.com/tuyuritio/astro-theme-thought-lite) 提供原始 Astro 内容主题基础，可参阅[上游 README](https://raw.githubusercontent.com/tuyuritio/astro-theme-thought-lite/refs/heads/main/README.md)。本项目继续使用 [GPLv3](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/LICENSE)。
 - [RhineLabUI](https://github.com/LBEILC/RhineLabUI) 提供适配后的 Three.js 档案界面。集成源码位于 `src/rhine/`，固定于经过审阅的提交 `8799b03179a9a0ebd2611843e644a5a0530b24bf`。可参阅[上游 README](https://raw.githubusercontent.com/LBEILC/RhineLabUI/refs/heads/main/README.md)和本地 [MIT 许可证声明](/legacy-assets/licenses/RhineLabUI-MIT.txt)。
 
-RhineLabUI 的 MIT 声明只适用于其覆盖的适配界面代码，不会自动将本仓库的所有文件和资源重新授权为 MIT。MiSans、Rolling Number、音频文件、其他依赖，以及相关作品的名称、标志、模型和源素材仍适用各自的权利和声明。详见 [`public/fonts/NOTICE.txt`](https://davidhlp.github.io/documentation/public/fonts/NOTICE.txt)、[`public/audio/README.md`](https://davidhlp.github.io/documentation/public/audio/README.md)、[`public/licenses/rolling-number.txt`](/legacy-assets/licenses/rolling-number.txt) 和 [`docs/rhine-migration.md`](/blog/legacy/documentation/docs/rhine-migration/)。
+RhineLabUI 的 MIT 声明只适用于其覆盖的适配界面代码，不会自动将本仓库的所有文件和资源重新授权为 MIT。MiSans、Rolling Number、音频文件、其他依赖，以及相关作品的名称、标志、模型和源素材仍适用各自的权利和声明。详见 [`public/fonts/NOTICE.txt`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/public/fonts/NOTICE.txt)、[`public/audio/README.md`](https://github.com/DavidHLP/DavidHLP.github.io/blob/f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64/public/audio/README.md)、[`public/licenses/rolling-number.txt`](/legacy-assets/licenses/rolling-number.txt) 和 [`docs/rhine-migration.md`](/blog/legacy/documentation/docs/rhine-migration/)。
 
 原始 RhineLabUI 是非官方的界面复刻项目，与相关游戏、角色、标志或源视频的权利人不存在隶属关系。相关第三方作品的权利仍归各自权利人所有。
 

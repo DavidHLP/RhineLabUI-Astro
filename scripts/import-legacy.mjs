@@ -94,6 +94,8 @@ function rewriteUrl(value, entry, image = false, inCodeBlock = false) {
   if (assetPaths.has(asset)) return assetPaths.get(asset) + url.search + url.hash;
   const document = pathEntries.get(relativePath);
   if (document && publishedTarget(document)) return publishedTarget(document) + url.hash;
+  if (files.includes(relativePath)) return `${repository}/blob/${revision}/${relativePath}` + url.hash;
+  if (files.some(path => path.startsWith(relativePath + "/"))) return `${repository}/tree/${revision}/${relativePath}` + url.hash;
   if (image) missingResources.push({ document: entry.path, reference: value, retainedUrl: url.href, inCodeBlock });
   if (value.startsWith("http")) return value;
   return url.href;
