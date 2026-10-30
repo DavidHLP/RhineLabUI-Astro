@@ -14,7 +14,7 @@ import "./responsive.css";
 import { viewportLayout, openingLayout } from "./viewport-layout";
 import { assetUrl } from "./asset-url";
 import { postPath } from "./blog-path";
-import { persistSaved, recentRecords, restoreArticleHash, syncArticleMetadata, visibleSavedCount } from "./blog-client";
+import { archiveTickWindow, persistSaved, recentRecords, restoreArticleHash, syncArticleMetadata, visibleSavedCount } from "./blog-client";
 import { initPwa, pwaSettingsMarkup } from "./pwa";
 import { createRollingNumber, createRollingText } from "@kitlangton/rolling-number";
 import { ArchiveScene } from "./scene";
@@ -363,7 +363,7 @@ window.visualViewport?.addEventListener("resize", fit);
 window.visualViewport?.addEventListener("scroll", fit);
 matchMedia("(pointer: coarse)").addEventListener("change", fit);
 fit();
-$("#file-ticks").innerHTML = columnFiles(fileLocation(selected).lane)
+$("#file-ticks").innerHTML = archiveTickWindow(columnFiles(fileLocation(selected).lane), selected)
   .map(
     (index) => `<button data-select="${index}"></button>`,
   )
@@ -484,12 +484,13 @@ function updateSelection(navigation?: ArchiveNavigation) {
   columnTitle.update({ text: archiveColumns[lane], animated: motionActive("rollingText") && mode === "archive" });
   $<HTMLButtonElement>('[data-action="column-prev"]').disabled = false;
   $<HTMLButtonElement>('[data-action="column-next"]').disabled = false;
-  if (fileTicks.length !== files.length) {
-    $("#file-ticks").innerHTML = files.map(() => "<button></button>").join("");
+  const tickFiles = archiveTickWindow(files, selected);
+  if (fileTicks.length !== tickFiles.length) {
+    $("#file-ticks").innerHTML = tickFiles.map(() => "<button></button>").join("");
     fileTicks = [...$("#file-ticks").querySelectorAll<HTMLButtonElement>("button")];
   }
   fileTicks.forEach((button, slot) => {
-    const index = files[slot], record = records[index];
+    const index = tickFiles[slot], record = records[index];
     button.dataset.select = String(index);
     button.setAttribute("aria-label", `选择档案 ${record.id} ${record.title}`);
     button.title = `${record.id} · ${record.title}`;

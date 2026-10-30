@@ -680,7 +680,7 @@ export class ArchiveScene {
           : 0,
       row:
         Math.abs(this.selectedCell.row) > 2048
-          ? Math.floor((this.selectedCell.row - 12) / 8) * 8
+          ? this.selectedCell.row - 12
           : 0,
     };
     if (!shift.lane && !shift.row) return;
@@ -714,7 +714,7 @@ export class ArchiveScene {
     const next = fileLocation(index).slot;
     const canonical = fileLocation(index);
     const cell = this.looping
-      ? selectionCell(index, this.selectedCell, navigation)
+      ? selectionCell(index, this.selectedCell, navigation, this.coordinateOrigin.row)
       : { lane: canonical.lane, row: canonical.row };
     const changed = !sameCell(cell, this.selectedCell);
     if (this.looping && changed && this.loaded && this.lift.value > 0.0001) {
@@ -879,7 +879,7 @@ export class ArchiveScene {
     )
       return;
     this.hoverCell = cell ? { ...cell } : null;
-    this.onHover?.(cell ? fileAtCell(cell) : null);
+    this.onHover?.(cell ? fileAtCell(cell, this.coordinateOrigin.row) : null);
   }
   private pickCell(x: number, y: number) {
     const r = this.renderer.domElement.getBoundingClientRect();
@@ -951,7 +951,7 @@ export class ArchiveScene {
           lane: Math.round(from.lane + (goal.lane - from.lane) * i / steps),
           row: Math.round(from.row + (goal.row - from.row) * i / steps),
         };
-        if (!sameCell(cell, this.selectedCell)) this.onSelect?.(fileAtCell(cell), cell);
+        if (!sameCell(cell, this.selectedCell)) this.onSelect?.(fileAtCell(cell, this.coordinateOrigin.row), cell);
       }
     } finally {
       this.navigatingDrag = false;
@@ -1124,7 +1124,7 @@ export class ArchiveScene {
           }
         } else if (!moved) {
           const cell = this.pickCell(e.clientX, e.clientY);
-          if (cell) this.onSelect?.(fileAtCell(cell), cell);
+          if (cell) this.onSelect?.(fileAtCell(cell, this.coordinateOrigin.row), cell);
         }
       }
       reset();

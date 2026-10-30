@@ -14,7 +14,7 @@ import {
 } from "./archive-content.mjs";
 import { escapeHtml } from "../src/html.ts";
 import { postPath } from "../src/blog-path.ts";
-import { recentRecords, visibleSavedCount, persistSaved, syncArticleMetadata, restoreArticleHash } from "../src/blog-client.ts";
+import { archiveTickWindow, recentRecords, visibleSavedCount, persistSaved, syncArticleMetadata, restoreArticleHash } from "../src/blog-client.ts";
 import { StartupGate } from "../src/startup.ts";
 import { parse } from "yaml";
 
@@ -67,9 +67,32 @@ test("large columns keep distinct article identities without changing cell coord
     }
     assert.equal(slots.size, published.records.length);
     assert.ok(published.columns.some((_, lane) => columnFiles(lane).length > 32));
+    const { fileAtCell, selectionCell } = await import("../src/archive-loop.ts");
+    for (const lane of [-6, 0, 1, 2, 3, 4, 7]) {
+      for (const row of [-100001, -2049, 2049, 100001]) {
+        const offset = row - 12;
+        const before = fileAtCell({ lane, row });
+        assert.equal(fileAtCell({ lane, row: 12 }, offset), before);
+        assert.equal(fileAtCell({ lane, row: 13 }, offset), fileAtCell({ lane, row: row + 1 }));
+        const next = selectionCell(before, { lane, row: 12 }, undefined, offset);
+        assert.equal(next.row, 12);
+        assert.equal(fileAtCell(next, offset), before);
+      }
+    }
   } finally {
     if (previousDocument === undefined) delete globalThis.document;
     else globalThis.document = previousDocument;
+  }
+});
+test("tick navigation keeps the selected article visible within eight buttons", () => {
+  for (const count of [1, 7, 8, 9, 108]) {
+    const files = Array.from({ length: count }, (_, index) => index * 2);
+    for (const selected of files) {
+      const ticks = archiveTickWindow(files, selected);
+      assert.equal(ticks.length, Math.min(8, count));
+      assert.ok(ticks.includes(selected));
+      assert.ok(ticks.every(index => files.includes(index)));
+    }
   }
 });
 test("all migrated downloads match the Markdown content, including the UTF-8 BOM", async () => {
