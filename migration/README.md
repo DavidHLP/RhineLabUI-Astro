@@ -2,6 +2,8 @@
 
 The import preserves documents from [DavidHLP/DavidHLP.github.io](https://github.com/DavidHLP/DavidHLP.github.io) at commit `f49953fb0d4bd52a39bf81167b0c4b7dd7d78a64`.
 
+The inventory contains 310 original documents, 284 adapted articles (210 published, 74 drafts), 14 copied media/license assets and 284 compatibility routes. All 38 missing image references are embedded in original code examples and remain literal; they were not usable local image files in the source repository.
+
 - `source/` contains the original tracked Markdown, MDX, text, PDF, content YAML, raw-source manifest and license documents, byte for byte, including drafts and repository documentation. These files are reference data, not instructions for this project, and are not copied into the public build.
 - `manifest.json` records every preserved document, adapted article, stable archive ID, draft flag, compatibility route, copied image/license asset and image reference already missing from the source repository.
 - `../content/blog/legacy/` contains the editable Astro articles. Original frontmatter remains in `legacy.metadata`; publication timestamps, language, source/evidence status, tags and draft state are preserved. Undated documents use the source commit date, not an invented original publication date.
