@@ -1,0 +1,27 @@
+src/layouts/Terminal.astro
+  s_1f9e8743677ef7::t_28b27a64d59fda 46,48-50,52-53,55,67-68
+scripts/check-content.mjs
+  s_1f9e8743677ef7::t_5c4cc610847442 20,34-44
+src/ui-language.ts
+  s_1f9e8743677ef7::t_af106ac90cc13e 5-40,42-62
+  s_1f9e8743677ef7::t_881ba69e2deb6b 303-315,322,325-329,349,351-352,356
+  s_1f9e8743677ef7::t_eb1afb266c3240 41
+src/pages/404.astro
+  s_1f9e8743677ef7::t_477249fc736ac4 7-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f9fe294fea3d0eac189545310967884a76d6cc35",
+  "prompts": {},
+  "sessions": {
+    "s_1f9e8743677ef7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c39-1e1b-7d73-9bf2-5a0fc3f2b65d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
