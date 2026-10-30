@@ -1,0 +1,37 @@
+public/archives/RHINE-LAB-X-1029.txt
+  s_1f9e8743677ef7::t_114687485282d8 121-123,144,147
+content/blog/legacy/documentation/readme.ja.md
+  s_1f9e8743677ef7::t_114687485282d8 143-145,166,169
+content/blog/legacy/documentation/readme.md
+  s_1f9e8743677ef7::t_114687485282d8 143-145,166,169
+content/blog/legacy/documentation/docs/readme.md
+  s_1f9e8743677ef7::t_114687485282d8 57
+scripts/check-content.mjs
+  s_1f9e8743677ef7::t_309711b089aa61 52-54
+scripts/import-legacy.mjs
+  s_1f9e8743677ef7::t_650dc1f8cf38de 97-98
+public/archives/RHINE-LAB-X-1030.txt
+  s_1f9e8743677ef7::t_114687485282d8 121-123,144,147
+content/blog/legacy/documentation/readme.zh-cn.md
+  s_1f9e8743677ef7::t_114687485282d8 143-145,166,169
+public/archives/RHINE-LAB-X-1028.txt
+  s_1f9e8743677ef7::t_114687485282d8 121-123,144,147
+public/archives/RHINE-LAB-X-1020.txt
+  s_1f9e8743677ef7::t_114687485282d8 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7487028c94761bbfa96630f60e2ee4ae832a96b2",
+  "prompts": {},
+  "sessions": {
+    "s_1f9e8743677ef7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c39-1e1b-7d73-9bf2-5a0fc3f2b65d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
