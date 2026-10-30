@@ -13,7 +13,7 @@ const capturedAt = git("show", "-s", "--format=%cI", revision);
 const files = git("ls-files").split("\n");
 const documents = files.filter(path => /\.(md|mdx|txt|pdf)$/i.test(path) ||
   /^src\/content\/.*\.(yaml|sha256)$/.test(path) || /(^|\/)LICENSE$/.test(path));
-const assets = files.filter(path => path.startsWith("public/") &&
+const assets = files.filter(path => (path.startsWith("public/") || path.startsWith(".github/assets/")) &&
   (/\.(png|webp|jpe?g|gif|svg|ico)$/.test(path) || path.startsWith("public/licenses/")));
 const categories = { note: "工程研究", raw: "能量研究", information: "机构档案", preface: "生命科学", jotting: "特别项目" };
 const entries = [];
@@ -66,14 +66,17 @@ for (const locale of ["", "/en", "/ja"]) {
   routes[`${locale}/feed.xml`] = "/rss.xml";
   routes[`${locale}/preface`] = `/blog/legacy/preface/${locale.slice(1) || "zh-cn"}/2026-06-19-18-00-00/`;
 }
-const assetPaths = new Set(assets.map(path => path.slice(7)));
+const assetTarget = path => `/legacy-assets/${path.startsWith("public/") ? path.slice(7) : path}`;
+const assetPaths = new Map(assets.map(path => [path.startsWith("public/") ? path.slice(7) : path, assetTarget(path)]));
 for (const path of assets) {
-  const target = `public/legacy-assets/${path.slice(7)}`;
+  const target = `public${assetTarget(path)}`;
   await mkdir(dirname(target), { recursive: true });
   await copyFile(resolve(source, path), target);
 }
 function rewriteUrl(value, entry, image = false) {
   if (/^(?:mailto:|tel:|data:|#)/.test(value)) return value;
+  const relativePath = posix.normalize(posix.join(posix.dirname(entry.path), value.split(/[?#]/)[0]));
+  if (assets.includes(relativePath)) return assetTarget(relativePath);
   let url;
   try { url = new URL(value, `https://davidhlp.github.io/${entry.key}`); }
   catch { return value; }
@@ -86,8 +89,8 @@ function rewriteUrl(value, entry, image = false) {
   }
   if (target) return target + url.search + url.hash;
   const asset = path.replace(/^\//, "");
-  if (assetPaths.has(asset)) return `/legacy-assets/${asset}` + url.search + url.hash;
-  const document = pathEntries.get(posix.normalize(posix.join(posix.dirname(entry.path), value.split(/[?#]/)[0])));
+  if (assetPaths.has(asset)) return assetPaths.get(asset) + url.search + url.hash;
+  const document = pathEntries.get(relativePath);
   if (document && publishedTarget(document)) return publishedTarget(document) + url.hash;
   if (image) missingResources.push({ document: entry.path, reference: value, retainedUrl: url.href });
   if (value.startsWith("http")) return value;
