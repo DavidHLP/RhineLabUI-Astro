@@ -1,0 +1,37 @@
+src/data.ts
+  s_1f9e8743677ef7::t_c6e1c38e1996f8 15,26-27,38,41-42
+src/content.config.ts
+  s_1f9e8743677ef7::t_c6e1c38e1996f8 25
+src/pages/[...legacy].astro
+  s_1f9e8743677ef7::t_c6e1c38e1996f8 1-5,7-19,21-22,24-25
+  s_1f9e8743677ef7::t_57a317c0b33208 6,20,23
+src/layouts/Terminal.astro
+  s_1f9e8743677ef7::t_c6e1c38e1996f8 54
+src/scene.ts
+  s_1f9e8743677ef7::t_c6e1c38e1996f8 217,503,1868
+scripts/import-legacy.mjs
+  s_1f9e8743677ef7::t_ebe2f77a286724 1,4-92,94-145
+  s_1f9e8743677ef7::t_c6e1c38e1996f8 2-3,93
+scripts/check-content.mjs
+  s_1f9e8743677ef7::t_57a317c0b33208 19,23-71
+src/main.ts
+  s_1f9e8743677ef7::t_c6e1c38e1996f8 587
+scripts/archive-content.mjs
+  s_1f9e8743677ef7::t_e15c7331e9ec98 98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cb2d7402f63eb406aba5c66d808bf5bae751a27d",
+  "prompts": {},
+  "sessions": {
+    "s_1f9e8743677ef7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c39-1e1b-7d73-9bf2-5a0fc3f2b65d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
