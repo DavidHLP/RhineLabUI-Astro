@@ -16,7 +16,7 @@ const description = post?.data.abstract ?? site.description;
 const canonical = new URL(post ? postPath(post.id) : "/", Astro.site);
 ---
 <!doctype html>
-<html lang="zh-CN">
+<html lang={post?.data.lang ?? "zh-CN"}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />

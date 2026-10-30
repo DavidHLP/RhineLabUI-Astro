@@ -47,7 +47,7 @@ test("legacy documents retain provenance, metadata, draft state and route target
     assert.ok(targets.has(target) || target === "/" || target === "/rss.xml", target);
   const raw = live.get(manifest.entries.find(entry => entry.path.endsWith("raw/zh-cn/ingest-redis-persistence.md")).archiveId);
   assert.ok(raw.body.includes("```"));
-  assert.ok(raw.body.includes("https://davidhlp.github.io/"));
+  assert.ok(raw.body.includes("```markdown\n---\ntitle: Redis持久化"));
   assert.ok(manifest.missingResources.length > 0, "Pre-existing missing images must be disclosed");
 });
 test("large columns keep distinct article identities without changing cell coordinates", async () => {
@@ -283,6 +283,11 @@ test("built pages carry one article body while shared search retains every publi
   assert.equal(manifest.description, site.description);
   const pages = paths.filter(path => path === "index.html" || /^blog\/.*\/index\.html$/.test(path.replaceAll("\\", "/")));
   assert.equal(pages.length, published.records.length + 1);
+  const migration = JSON.parse(await readFile(new URL("../migration/manifest.json", import.meta.url), "utf8"));
+  for (const entry of migration.entries) {
+    const page = `${entry.slug.replace(/^/, "blog/")}/index.html`;
+    assert.equal(paths.includes(page), !entry.draft, `Wrong publication path: ${page}`);
+  }
   for (const path of pages) {
     const html = await readFile(join(fileURLToPath(dist), path), "utf8");
     const data = html.match(/<script\b[^>]*id="blog-data"[^>]*>([\s\S]*?)<\/script>/);

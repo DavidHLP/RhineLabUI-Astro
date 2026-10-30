@@ -73,7 +73,7 @@ for (const path of assets) {
   await mkdir(dirname(target), { recursive: true });
   await copyFile(resolve(source, path), target);
 }
-function rewriteUrl(value, entry, image = false) {
+function rewriteUrl(value, entry, image = false, inCodeBlock = false) {
   if (/^(?:mailto:|tel:|data:|#)/.test(value)) return value;
   const relativePath = posix.normalize(posix.join(posix.dirname(entry.path), value.split(/[?#]/)[0]));
   if (assets.includes(relativePath)) return assetTarget(relativePath);
@@ -92,7 +92,7 @@ function rewriteUrl(value, entry, image = false) {
   if (assetPaths.has(asset)) return assetPaths.get(asset) + url.search + url.hash;
   const document = pathEntries.get(relativePath);
   if (document && publishedTarget(document)) return publishedTarget(document) + url.hash;
-  if (image) missingResources.push({ document: entry.path, reference: value, retainedUrl: url.href });
+  if (image) missingResources.push({ document: entry.path, reference: value, retainedUrl: url.href, inCodeBlock });
   if (value.startsWith("http")) return value;
   return url.href;
 }
@@ -116,10 +116,14 @@ for (const [index, entry] of entries.entries()) {
       else if (marker[1][0] === fence[0] && marker[1].length >= fence.length) fence = undefined;
       return line;
     }
-    if (fence) return line;
+    if (fence) {
+      for (const match of line.matchAll(/!\[[^\]]*\]\(([^\s)]+)/g)) rewriteUrl(match[1], entry, true, true);
+      for (const match of line.matchAll(/(?<![:\w-])src=(['"])(.*?)\1/g)) rewriteUrl(match[2], entry, true, true);
+      return line;
+    }
     return line.replace(/(!?\[[^\]]*\]\()([^\s)]+)([^)]*\))/g,
       (_, open, url, close) => open + rewriteUrl(url, entry, open.startsWith("!")) + close)
-      .replace(/\b(href|src)=(['"])(.*?)\2/g, (_, attribute, quote, url) =>
+      .replace(/(?<![:\w-])\b(href|src)=(['"])(.*?)\2/g, (_, attribute, quote, url) =>
         `${attribute}=${quote}${rewriteUrl(url, entry, attribute === "src")}${quote}`);
   }).join("\n");
   const date = new Date(data.timestamp ?? data.capturedAt ?? capturedAt).toISOString();
@@ -133,6 +137,7 @@ for (const [index, entry] of entries.entries()) {
     source: `${repository}/blob/${revision}/${path}`, pubDate: date,
     tags: [...new Set([...(data.tags ?? []), entry.locale || "documentation", key.split("/")[0]])],
     draft: Boolean(data.draft || path.split("/").some(part => part.startsWith("_"))),
+    lang: entry.locale === "en" || entry.locale === "ja" ? entry.locale : "zh-CN",
     legacy: { path, revision, metadata: data },
   };
   const sources = (data.sources ?? []).map(name => pathEntries.get(`src/content/raw/zh-cn/${name}.md`)).filter(Boolean);
