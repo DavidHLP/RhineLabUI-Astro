@@ -214,7 +214,7 @@ export class ArchiveScene {
   }[] = [];
   private pulses: { row: number; lane: number; time: number }[] = [];
   private pendingPulse: ArchiveCell | null = null;
-  private selectedSlot = 76;
+  private selectedSlot = fileLocation(fileAtCell({ lane: 2, row: 12 })).slot;
   private detail = 0;
   private targetDetail = 0;
   private reveal = 0;
@@ -500,7 +500,7 @@ export class ArchiveScene {
     this.appearance.apply(this.model, 0);
     this.drawLabel(0);
     this.scene.add(this.model);
-    this.model.position.copy(this.cellPosition(poolCell(this.selectedSlot)));
+    this.model.position.copy(this.cellPosition(this.selectedCell));
     this.loaded = true;
   }
 
@@ -1865,7 +1865,7 @@ export class ArchiveScene {
       pulses: this.pulses.map((pulse) => ({ ...pulse })),
       referenceTime: Math.round((this.scanTime + 5) * 100) / 100,
       selectedSlot: this.selectedSlot,
-      selectedLane: Math.floor(this.selectedSlot / 32),
+      selectedLane: fileLocation(fileAtSlot(this.selectedSlot)).lane,
       selectedCell: { ...this.selectedCell },
       hoverCell: this.hoverCell ? { ...this.hoverCell } : null,
       hoverLifts: Object.fromEntries(this.hoverLifts),

@@ -16,9 +16,59 @@ import { escapeHtml } from "../src/html.ts";
 import { postPath } from "../src/blog-path.ts";
 import { recentRecords, visibleSavedCount, persistSaved, syncArticleMetadata, restoreArticleHash } from "../src/blog-client.ts";
 import { StartupGate } from "../src/startup.ts";
+import { parse } from "yaml";
 
 const published = await loadContent();
 const content = published;
+test("legacy documents retain provenance, metadata, draft state and route targets", async () => {
+  const manifest = JSON.parse(await readFile(new URL("../migration/manifest.json", import.meta.url), "utf8"));
+  assert.equal(new Set(manifest.documents).size, manifest.documents.length);
+  for (const path of manifest.documents)
+    assert.ok((await readFile(new URL(`../migration/source/${path}`, import.meta.url))).length >= 0);
+  const live = new Map(published.records.map(record => [record.id, record]));
+  for (const entry of manifest.entries) {
+    const original = await readFile(new URL(`../migration/source/${entry.path}`, import.meta.url), "utf8");
+    const source = await readFile(new URL(`../content/blog/${entry.slug}.md`, import.meta.url), "utf8");
+    const frontmatter = source.match(/^---\n([\s\S]*?)\n---\n/)[1];
+    const data = parse(frontmatter);
+    assert.equal(data.legacy.path, entry.path);
+    assert.equal(data.legacy.revision, manifest.revision);
+    const metadata = original.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/);
+    assert.deepEqual(data.legacy.metadata, metadata ? parse(metadata[1]) : {});
+    assert.equal(data.draft, entry.draft);
+    assert.equal(live.has(entry.archiveId), !entry.draft);
+    if (!entry.draft) {
+      assert.ok(archiveText(live.get(entry.archiveId)).includes("原文来源："));
+      assert.ok(!archiveText(live.get(entry.archiveId)).includes("非游戏原文"));
+    }
+  }
+  const targets = new Set(manifest.entries.filter(entry => !entry.draft).map(entry => `/blog/${entry.slug}/`));
+  for (const target of Object.values(manifest.routes))
+    assert.ok(targets.has(target) || target === "/" || target === "/rss.xml", target);
+  const raw = live.get(manifest.entries.find(entry => entry.path.endsWith("raw/zh-cn/ingest-redis-persistence.md")).archiveId);
+  assert.ok(raw.body.includes("```"));
+  assert.ok(raw.body.includes("https://davidhlp.github.io/"));
+  assert.ok(manifest.missingResources.length > 0, "Pre-existing missing images must be disclosed");
+});
+test("large columns keep distinct article identities without changing cell coordinates", async () => {
+  const previousDocument = globalThis.document;
+  try {
+    globalThis.document = { getElementById() { return { textContent: JSON.stringify(published) }; } };
+    const { fileLocation, fileAtSlot, columnFiles } = await import("../src/data.ts");
+    const slots = new Set();
+    for (const [index] of published.records.entries()) {
+      const location = fileLocation(index);
+      assert.equal(fileAtSlot(location.slot), index);
+      assert.equal(location.row, 12 + columnFiles(location.lane).indexOf(index));
+      slots.add(location.slot);
+    }
+    assert.equal(slots.size, published.records.length);
+    assert.ok(published.columns.some((_, lane) => columnFiles(lane).length > 32));
+  } finally {
+    if (previousDocument === undefined) delete globalThis.document;
+    else globalThis.document = previousDocument;
+  }
+});
 test("all migrated downloads match the Markdown content, including the UTF-8 BOM", async () => {
   for (const record of published.records) {
     assert.equal(
