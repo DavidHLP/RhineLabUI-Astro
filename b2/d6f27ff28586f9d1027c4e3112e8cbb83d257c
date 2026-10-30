@@ -1,0 +1,213 @@
+content/blog/en/x-038.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/ja/x-032.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/ja/x-022.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-035.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/en/x-001.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-006.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+src/pages/rss.xml.ts
+  s_1f9e8743677ef7::t_0b0499ad4ad676 11
+content/blog/en/x-024.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+src/boot-lettering.ts
+  s_1f9e8743677ef7::t_790b70b1f4774b 4,98-101
+content/blog/ja/x-005.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-032.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+src/lib/blog.ts
+  s_1f9e8743677ef7::t_187085f8f44e3c 3,9
+content/blog/en/x-039.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+src/content-language.ts
+  s_1f9e8743677ef7::t_d67d5e0cf6d47f 2,18,20,31,42
+  s_1f9e8743677ef7::t_0ec8dc0eb2fcc0 1,3-17,19,21-30,32-41,43-50
+content/blog/en/x-014.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/en/x-031.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/ja/x-003.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-021.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-009.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+src/data.ts
+  s_1f9e8743677ef7::t_8d568d12b345e7 29-30,32
+  s_1f9e8743677ef7::t_37e1fbab217d1f 1-4,23,28,31,33-39
+content/blog/en/x-012.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/en/x-010.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/ja/x-017.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+src/ui-language.ts
+  s_1f9e8743677ef7::t_b35727bef684a4 1,3,377-395,399-403,408-411,424,460-461
+  s_1f9e8743677ef7::t_cff0b7d54ee3c2 404-407
+  s_1f9e8743677ef7::t_790b70b1f4774b 14-21,338-342,425-428
+  s_1f9e8743677ef7::t_187085f8f44e3c 2,345,446
+content/blog/en/x-016.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-021.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/en/x-026.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/en/x-028.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-020.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-014.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-030.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-018.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-010.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/ja/x-036.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/en/x-020.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-019.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-028.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/en/x-030.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/en/x-018.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/en/x-002.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+src/content.config.ts
+  s_1f9e8743677ef7::t_187085f8f44e3c 26
+content/blog/ja/x-011.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-002.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/ja/x-013.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-025.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-015.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-037.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/ja/x-001.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-033.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/ja/x-040.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/ja/x-007.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/ja/x-034.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/en/x-036.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/en/x-019.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-012.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-038.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/en/x-034.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/en/x-017.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/en/x-007.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-023.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-027.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-026.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/en/x-003.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-015.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-024.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+src/pages/[lang]/rss.xml.ts
+  s_1f9e8743677ef7::t_0b0499ad4ad676 1-22
+content/blog/en/x-011.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+scripts/check-content.mjs
+  s_1f9e8743677ef7::t_e9b21c652c1ac6 73-74
+  s_1f9e8743677ef7::t_300ea9b3dddbaa 19-20,54-72,75
+content/blog/ja/x-023.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-008.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-004.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/locales.json
+  s_1f9e8743677ef7::t_60fd689a3be5a4 3-39,42-78,80-125
+  s_1f9e8743677ef7::t_0ec8dc0eb2fcc0 1-2,40-41,79,126
+content/blog/en/x-027.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/en/x-025.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-039.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/ja/x-029.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-006.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+src/layouts/Terminal.astro
+  s_1f9e8743677ef7::t_ff79733e3d190a 6-7,19-20,23,47,50,52,54,71,93-94
+  s_1f9e8743677ef7::t_187085f8f44e3c 59-60,62
+content/blog/en/x-008.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-013.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/ja/x-016.md
+  s_1f9e8743677ef7::t_026f3dab8294c4 1-28
+content/blog/en/x-040.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/en/x-022.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/ja/x-004.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/en/x-029.md
+  s_1f9e8743677ef7::t_15c3dc936518c7 1-28
+content/blog/en/x-005.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+scripts/archive-content.mjs
+  s_1f9e8743677ef7::t_300ea9b3dddbaa 3,92,99-104
+content/blog/en/x-009.md
+  s_1f9e8743677ef7::t_40d5fcb501c981 1-28
+content/blog/ja/x-031.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+src/main.ts
+  s_1f9e8743677ef7::t_187085f8f44e3c 540
+  s_1f9e8743677ef7::t_37e1fbab217d1f 32,174
+  s_1f9e8743677ef7::t_ff79733e3d190a 33,468,594
+content/blog/en/x-035.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/ja/x-033.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+content/blog/en/x-037.md
+  s_1f9e8743677ef7::t_787a37142b72a3 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b2d6f27ff28586f9d1027c4e3112e8cbb83d257c",
+  "prompts": {},
+  "sessions": {
+    "s_1f9e8743677ef7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c39-1e1b-7d73-9bf2-5a0fc3f2b65d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
