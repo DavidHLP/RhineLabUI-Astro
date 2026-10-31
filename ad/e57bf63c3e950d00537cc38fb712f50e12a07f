@@ -1,0 +1,25 @@
+src/article-reader.ts
+  s_1f9e8743677ef7::t_660b329069dd13 23,37,50-52
+  s_1f9e8743677ef7::t_6ea89ceb723ad0 53-54
+scripts/check-content.mjs
+  s_1f9e8743677ef7::t_660b329069dd13 26-28,70-73
+  s_1f9e8743677ef7::t_9c14281db85eff 53-67
+src/main.ts
+  s_1f9e8743677ef7::t_660b329069dd13 583-586,640-643
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ade57bf63c3e950d00537cc38fb712f50e12a07f",
+  "prompts": {},
+  "sessions": {
+    "s_1f9e8743677ef7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c39-1e1b-7d73-9bf2-5a0fc3f2b65d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
