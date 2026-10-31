@@ -1,0 +1,22 @@
+docs/I18N-SEMANTIC-AUDIT.md
+  s_1f9e8743677ef7::t_62cdf5f380b2e9 1-48
+  s_1f9e8743677ef7::t_6d12c9c62cdd59 49-50
+scripts/check-content.mjs
+  s_1f9e8743677ef7::t_6a71b8c3cb13ca 59-62,71,84,97-100,126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "728561374565e5ee6b05035c3a654e1e683be95e",
+  "prompts": {},
+  "sessions": {
+    "s_1f9e8743677ef7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c39-1e1b-7d73-9bf2-5a0fc3f2b65d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
