@@ -1,0 +1,19 @@
+docs/ABOUT-ACCEPTANCE.md
+  s_717cfd5dbdee4b::t_1a1da111a6c5d1 9-19,22-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0a4f6c78763d912b86f5d0727bf324aacfd8940b",
+  "prompts": {},
+  "sessions": {
+    "s_717cfd5dbdee4b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19792-0dff-7a90-a968-9314d80a1798",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
