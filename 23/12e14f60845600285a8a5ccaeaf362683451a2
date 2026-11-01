@@ -1,0 +1,41 @@
+scripts/check-content.mjs
+  s_1f9e8743677ef7::t_f9a81b444fa1d7 26
+  s_1f9e8743677ef7::t_e375bf6957dfbe 20-21,27-41,52-53,64,70
+src/main.ts
+  s_1f9e8743677ef7::t_e375bf6957dfbe 15
+  s_1f9e8743677ef7::t_940d2750eb0d57 16-17,141-142,583-587,602-605,720,993,996,1123
+src/article-reader.ts
+  s_1f9e8743677ef7::t_e375bf6957dfbe 81-85
+  s_1f9e8743677ef7::t_940d2750eb0d57 1-7,63
+src/ui-language.ts
+  s_1f9e8743677ef7::t_940d2750eb0d57 9
+src/article-outline.ts
+  s_1f9e8743677ef7::t_14d14ab2b16e8a 2,22-30,32,35-49,51,53-73,75-129,131-143,145,149,151-169
+  s_1f9e8743677ef7::t_095d03aa8b96d7 74
+  s_1f9e8743677ef7::t_d0c71c2a36d895 1,31,33-34
+  s_1f9e8743677ef7::t_74a8e30965ae71 50,130
+  s_1f9e8743677ef7::t_eb32727f43a43f 3-21,52
+  s_1f9e8743677ef7::t_f9a81b444fa1d7 144,146-148,150
+src/article-reader.css
+  s_1f9e8743677ef7::t_e375bf6957dfbe 51
+src/article-outline.css
+  s_1f9e8743677ef7::t_74a8e30965ae71 29
+  s_1f9e8743677ef7::t_f9a81b444fa1d7 53
+  s_1f9e8743677ef7::t_14d14ab2b16e8a 1-28,30-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2312e14f60845600285a8a5ccaeaf362683451a2",
+  "prompts": {},
+  "sessions": {
+    "s_1f9e8743677ef7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c39-1e1b-7d73-9bf2-5a0fc3f2b65d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
