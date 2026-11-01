@@ -1,0 +1,33 @@
+src/pages/blog-search.json.ts
+  s_717cfd5dbdee4b::t_8ea1c5f6ba84ed 7
+  s_717cfd5dbdee4b::t_7279199c992cb5 1
+scripts/archive-content.mjs
+  s_717cfd5dbdee4b::t_7279199c992cb5 1-2
+  s_717cfd5dbdee4b::t_8ea1c5f6ba84ed 106
+scripts/check-content.mjs
+  s_717cfd5dbdee4b::t_8ea1c5f6ba84ed 15,33-38,59,546
+src/responsive.css
+  s_717cfd5dbdee4b::t_8ea1c5f6ba84ed 229-230
+src/profile-text.mjs
+  s_717cfd5dbdee4b::t_7279199c992cb5 1-6
+src/profile-schema.ts
+  s_717cfd5dbdee4b::t_8ea1c5f6ba84ed 13-20
+src/layouts/About.astro
+  s_717cfd5dbdee4b::t_8ea1c5f6ba84ed 47-48,71,76,96-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9e1702c78be053c407677b552d2061150a7bcb9a",
+  "prompts": {},
+  "sessions": {
+    "s_717cfd5dbdee4b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19792-0dff-7a90-a968-9314d80a1798",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
