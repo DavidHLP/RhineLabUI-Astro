@@ -1,0 +1,68 @@
+src/pages/about.astro
+  s_717cfd5dbdee4b::t_efdffe6458e7e0 1-4
+src/layouts/About.astro
+  s_717cfd5dbdee4b::t_6f56dee1046632 3,68
+  s_717cfd5dbdee4b::t_1affccb1b36852 1-2,4-67,69-99
+content/about/en.md
+  s_717cfd5dbdee4b::t_beb599ef2ffb4c 1-31
+content/about/ja.md
+  s_717cfd5dbdee4b::t_beb599ef2ffb4c 1-31
+src/components/Profile.astro
+  s_717cfd5dbdee4b::t_efdffe6458e7e0 1-14
+src/content.config.ts
+  s_717cfd5dbdee4b::t_cdf81ee6e0085a 6-7,29,32-36
+scripts/check-content.mjs
+  s_717cfd5dbdee4b::t_14afe9cbd5cb42 25-58
+content/site.json
+  s_717cfd5dbdee4b::t_cdf81ee6e0085a 19-23
+src/main.ts
+  s_717cfd5dbdee4b::t_cdf81ee6e0085a 82
+src/profile-schema.ts
+  s_717cfd5dbdee4b::t_efdffe6458e7e0 1-15
+src/ui-language.ts
+  s_717cfd5dbdee4b::t_cdf81ee6e0085a 9,422
+src/pages/[lang]/about.astro
+  s_717cfd5dbdee4b::t_efdffe6458e7e0 1-8
+docs/ABOUT-ACCEPTANCE.md
+  s_717cfd5dbdee4b::t_efdffe6458e7e0 1-21
+src/style.css
+  s_717cfd5dbdee4b::t_cdf81ee6e0085a 2239-2241
+src/content-language.ts
+  s_717cfd5dbdee4b::t_cdf81ee6e0085a 1,30-33
+docs/ABOUT.md
+  s_717cfd5dbdee4b::t_beb599ef2ffb4c 1-56
+src/about.css
+  s_717cfd5dbdee4b::t_1affccb1b36852 1-108
+  s_717cfd5dbdee4b::t_6f56dee1046632 109-110
+README.md
+  s_717cfd5dbdee4b::t_81ce82b1ea96fa 25-28
+src/public-file.ts
+  s_717cfd5dbdee4b::t_beb599ef2ffb4c 1-8
+src/lib/about.ts
+  s_717cfd5dbdee4b::t_efdffe6458e7e0 1-11
+src/layouts/Terminal.astro
+  s_717cfd5dbdee4b::t_cdf81ee6e0085a 2-3,54,60,73
+  s_717cfd5dbdee4b::t_6f56dee1046632 92
+src/about-path.ts
+  s_717cfd5dbdee4b::t_efdffe6458e7e0 1-5
+content/about/zh-cn.md
+  s_717cfd5dbdee4b::t_beb599ef2ffb4c 1-31
+src/blog.css
+  s_717cfd5dbdee4b::t_81ce82b1ea96fa 17-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6654c9ad86269ddfe160f2150aa4a9eb273b60e9",
+  "prompts": {},
+  "sessions": {
+    "s_717cfd5dbdee4b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19792-0dff-7a90-a968-9314d80a1798",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
