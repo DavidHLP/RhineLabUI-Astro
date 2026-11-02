@@ -13,4 +13,3 @@
 ### Example research project
 
 Define questions with public or synthetic material, record the method, and distinguish experimental results from unverified assumptions.
-
