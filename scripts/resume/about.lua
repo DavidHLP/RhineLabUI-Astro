@@ -31,7 +31,20 @@ function Pandoc(doc)
   end
   blocks:extend(body)
 
+  local url = pandoc.utils.stringify(doc.meta["resume-url"])
+  local origin = url:match("^https?://[^/]+")
   return pandoc.Pandoc(blocks):walk({
+    Link = function(link)
+      local target = link.target
+      if target:match("^//") then
+        link.target = url:match("^https?:") .. target
+      elseif target:match("^/") then
+        link.target = origin .. target
+      elseif not target:match("^[%a][%w+.-]*:") and not target:match("^#") then
+        link.target = url .. target
+      end
+      return link
+    end,
     Span = function(span)
       if span.classes:includes("resume-section-number") or span.attributes["aria-hidden"] == "true" then
         return {}

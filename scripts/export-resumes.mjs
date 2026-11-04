@@ -3,6 +3,7 @@ import { existsSync } from "node:fs";
 import { readdir } from "node:fs/promises";
 import { join } from "node:path";
 import { promisify } from "node:util";
+import site from "../content/site.json" with { type: "json" };
 import { aboutPath } from "../src/about-path.ts";
 
 if (process.env.RHINE_RESUME_PDF === "1") {
@@ -20,6 +21,7 @@ if (process.env.RHINE_RESUME_PDF === "1") {
       try {
         await run("pandoc", [
           source, "--from=html", "--pdf-engine=xelatex", "--fail-if-warnings",
+          `--metadata=resume-url:${new URL(aboutPath(language, variant), site.site)}`,
           "--lua-filter=scripts/resume/about.lua",
           "--include-in-header=scripts/resume/layout.tex",
           "--variable=papersize:a4", "--variable=geometry:margin=14mm",
