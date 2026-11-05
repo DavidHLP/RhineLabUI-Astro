@@ -1,0 +1,30 @@
+src/layouts/About.astro
+  s_e79dc81f7ac99f::t_947d366dc28a44 31-32,75,91,101-103,106,125-128
+scripts/export-resumes.mjs
+  s_e79dc81f7ac99f::t_947d366dc28a44 3,36-49
+scripts/check-content.mjs
+  s_e79dc81f7ac99f::t_947d366dc28a44 105-111
+.github/workflows/astro.yml
+  s_e79dc81f7ac99f::t_947d366dc28a44 18
+src/about.css
+  s_e79dc81f7ac99f::t_947d366dc28a44 126-144
+  s_e79dc81f7ac99f::t_d0fc354af98079 145
+docs/ABOUT.md
+  s_e79dc81f7ac99f::t_947d366dc28a44 55,90-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "672b7ccabae85547fee4cbd4b7ee6ce96165a023",
+  "prompts": {},
+  "sessions": {
+    "s_e79dc81f7ac99f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ac0d-ae96-7641-a6b1-422308477b43",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "DavidHLP <lysf15520112973@163.com>"
+    }
+  }
+}
